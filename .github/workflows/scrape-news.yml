@@ -1,4 +1,4 @@
-name: 📰 Scrape Noticias 30min
+name: 📰 Scrape Noticias Update
 on:
   schedule:
     - cron: '*/30 * * * *'     # Cada 30min (día)
@@ -29,5 +29,5 @@ jobs:
       uses: stefanzweifel/git-auto-commit-action@v5
       with:
         file_pattern: '*.json'
-        commit_message: "📰 Update {{date}}"
+        commit_message: "📰 Update ${{ github.event.head_commit.timestamp }}"
         skip_fetch: true

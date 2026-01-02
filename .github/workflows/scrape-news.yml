@@ -1,0 +1,32 @@
+name: 📰 Scrape Noticias 30min
+on:
+  schedule:
+    - cron: '*/30 * * * *'  # Cada 30 minutos
+  workflow_dispatch:        # Botón manual
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+    
+    - name: Python 3.11
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+    
+    - name: Install deps
+      run: |
+        pip install --upgrade pip
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; else pip install requests beautifulsoup4 lxml unidecode; fi
+    
+    - name: 📰 Scrape → JSON
+      run: python scraper_cron.py
+    
+    - name: Commit JSON
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        file_pattern: '*.json'
+        commit_message: "📰 Update {{date}}"
+        skip_fetch: true

@@ -1,5 +1,27 @@
 [
   {
+    "id": "VKgjRE",
+    "newspaper": "20minutos.es",
+    "date": "2026-01-02T23:21:59.051Z",
+    "tags": [
+      "PP",
+      "Alberto Núñez Feijóo",
+      "DANA"
+    ],
+    "title": "Comentarios",
+    "subtitle": "El líder del PP ya mandó al juzgado el pasado 24 de diciembre los mensajes que envió a Mazón el día de la DANA, pero recibió críticas por no enviar la conversación completa.",
+    "url": "https://www.20minutos.es/nacional/feijoo-envia-jueza-sus-mensajes-con-mazon-durante-dana-lidera-comunicacion-como-hiciste-con-incendio_6916857_0.html",
+    "author": "",
+    "image": {
+      "url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/01/02/6958167e4bbcd0-73711991.webp",
+      "credits": ""
+    },
+    "body": "",
+    "hash": "0d406c58e8363e9a09eaf5ac08bc4bd5",
+    "domain": "20minutos.es",
+    "scraped_at": "2026-01-02T23:22:20.988592"
+  },
+  {
     "id": "iA8afs",
     "newspaper": "lavanguardia.com",
     "date": "2026-01-02T23:10:00.338Z",

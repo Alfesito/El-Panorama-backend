@@ -1,5 +1,387 @@
 [
   {
+    "id": "GExD2d",
+    "newspaper": "20minutos.es",
+    "date": "2026-01-03T09:01:00.485Z",
+    "tags": [
+      "Unión Europea",
+      "Bruselas",
+      "Alimentación",
+      "España",
+      "Ministerio de Agricultura Pesca y Alimentación"
+    ],
+    "title": "Comentarios",
+    "subtitle": "xxxx",
+    "url": "https://www.20minutos.es/lainformacion/economia-y-finanzas/cuarenta-anos-espana-dentro-europa-asi-ha-mudado-piel-economia-nacional_6915948_0.html",
+    "author": "Ingrid Gutiérrez, Carlos Manso",
+    "image": {
+      "url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/01/01/69563d2e9cedb4-92579991.jpeg",
+      "credits": ""
+    },
+    "body": "",
+    "hash": "90d6968491a44d8b7d4cdb77681ebf7b",
+    "domain": "20minutos.es",
+    "scraped_at": "2026-01-03T09:01:12.323813"
+  },
+  {
+    "id": "VVSWJL",
+    "newspaper": "20minutos.es",
+    "date": "2026-01-03T09:00:56.148Z",
+    "tags": [
+      "Paco Arévalo"
+    ],
+    "title": "Comentarios",
+    "subtitle": "La joven ha",
+    "url": "https://www.20minutos.es/television/nieta-arevalo-recuerda-su-abuelo-dos-anos-despues-su-muerte-he-pasado-muy-mal-porque-eramos-una-carne_6916889_0.html",
+    "author": "",
+    "image": {
+      "url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/01/02/695802cba70312-53127438.jpeg",
+      "credits": ""
+    },
+    "body": "",
+    "hash": "681afbf5a0d7afb83a071cebd2a6b96c",
+    "domain": "20minutos.es",
+    "scraped_at": "2026-01-03T09:01:12.323768"
+  },
+  {
+    "id": "oFeCMA",
+    "newspaper": "20minutos.es",
+    "date": "2026-01-03T09:00:56.091Z",
+    "tags": [
+      "Comunidad de Madrid",
+      "Adicción al móvil",
+      "Adolescentes",
+      "Minecraft",
+      "Menores",
+      "Videojuegos"
+    ],
+    "title": "Comentarios",
+    "subtitle": "El Servicio de Adicciones Tecnológicas de Madrid detecta un incremento progresivo de estas situaciones entre los menores que acuden a consulta.",
+    "url": "https://www.20minutos.es/madrid/las-cajas-botin-avatares-pago-juegos-online-inician-los-chavales-ludopatia-mi-hijo-memorizo-mi-tarjeta-para-minecraft_6904044_0.html",
+    "author": "Luis Miguel Gutiérrez Machio",
+    "image": {
+      "url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/02/26/un-adolescente-jugando-a-minecraft.jpeg",
+      "credits": ""
+    },
+    "body": "",
+    "hash": "a9d0463f2b63a6fe121b6feef47936ff",
+    "domain": "20minutos.es",
+    "scraped_at": "2026-01-03T09:01:12.323764"
+  },
+  {
+    "id": "TdQhAT",
+    "newspaper": "20minutos.es",
+    "date": "2026-01-03T09:00:51.957Z",
+    "tags": [
+      "EE UU",
+      "Venezuela",
+      "Donald Trump",
+      "Caracas",
+      "Nicolás Maduro",
+      "José Manuel Albares"
+    ],
+    "title": "El Gobierno espanol confirma el \"ataque aereo\" en Venezuela y asegura que todo el personal de la Embajada esta a salvo",
+    "subtitle": "El ministro de Exteriores, José Manuel Albares, ha hablado ya con el embajador de España en Venezuela.",
+    "url": "https://www.20minutos.es/internacional/espana-todo-personal-embajada-venezuela-salvo_6916961_0.html",
+    "author": "EFE",
+    "image": {
+      "url": "https://imagenes.20minutos.es/files/image_640_360/uploads/imagenes/2026/01/03/6958cdfa1810c6-13437881.jpeg",
+      "credits": "Varias personas corren tras escucharse explosiones y aviones volando a baja altura en Caracas, Venezuela. AP / Lapresse"
+    },
+    "body": "Basado en hechos observados y verificados directamente por nuestros periodistas o por fuentes informadas. El ministro de Exteriores, Jose Manuel Albares, ha hablado ya con el embajador de Espana en Venezuela. El Gobierno ha confirmado este sabado un \"ataque aereo\" sobre Caracas y ha asegurado que todo el personal de la Embajada espanola en la capital de Venezuela se encuentra a salvo. Fuentes del Ejecutivo espanol han afirmado que se esta recabando toda la informacion sobre las diferentes explosiones que se han registrado en Caracas a primera hora de este sabado. El ministro de Asuntos Exteriores, Union Europea y Cooperacion, Jose Manuel Albares, ha hablado ya con el embajador de Espana en Venezuela y todo el personal se encuentra a salvo, segun las mismas fuentes del Gobierno. Segun ha informado la cadena de television CBS News, citando fuentes de la Administracion de EEUU, el presidente estadounidense, Donald Trump, ha ordenado este sabado atacar objetivos dentro de Venezuela, incluidos militares, en una escalada de su campana de presion al regimen de Nicolas Maduro.",
+    "hash": "734333c7b6f08f5bbd189bf8e542d9ea",
+    "domain": "20minutos.es",
+    "scraped_at": "2026-01-03T09:01:12.323728"
+  },
+  {
+    "id": "IFqQp2",
+    "newspaper": "20minutos.es",
+    "date": "2026-01-03T09:00:50.448Z",
+    "tags": [
+      "Venezuela",
+      "Caracas",
+      "EEUU"
+    ],
+    "title": "EE UU lanza un ataque militar sobre Venezuela, que se prepara para pasar \"de inmediato a la lucha armada\"",
+    "subtitle": "Las detonaciones se han escuchado en el principal fuerte militar del país, Fuerte Tiuna, al oeste de la ciudad, y en la base militar de La Carlota. Se ha reportado también el vuelo de varios aviones militares.",
+    "url": "https://www.20minutos.es/internacional/explosiones-caracas-venezuela-tensiones-eeuu_6916953_0.html",
+    "author": "AGENCIAS",
+    "image": {
+      "url": "https://imagenes.20minutos.es/files/image_640_360/uploads/imagenes/2026/01/03/6958bd77b15509-37741189.jpeg",
+      "credits": "Humo en el aeropuerto de La Carlota luego de escucharse explosiones y aviones volando a baja altura en Caracas, Venezuela. AP / Lapresse"
+    },
+    "body": "Basado en hechos observados y verificados directamente por nuestros periodistas o por fuentes informadas. Las detonaciones se han escuchado en el principal fuerte militar del pais, Fuerte Tiuna, al oeste de la ciudad, y en la base militar de La Carlota. Se ha reportado tambien el vuelo de varios aviones militares. El presidente estadounidense, Donald Trump, ha ordenado atacar objetivos dentro de Venezuela, incluidos militares, en una escalada de su campana de presion al regimen de Nicolas Maduro, segun han informado fuentes de la Administracion a la cadena CBS News. En medio de estos ataques, la Fuerza Aerea de EE UU ha emitido un aviso oficial este sabado que prohibe a todas las aeronaves circular por el espacio aereo de Venezuela. Las detonaciones y explosiones, con sobrevuelo de aviones, se han escuchado en la madrugada de este sabado en Caracas y otros puntos de Venezuela, en lo que Maduro, ha definido ya como \"gravisima agresion militar\" de EEUU y ha ordenado el \"despliegue del comando para la defensa integral de la nacion\". En un comunicado, el Ejecutivo venezolano ha informado de que el jefe de Estado \"ha firmado y ordenando la implementacion del decreto que declara el estado de conmocion exterior\", con el fin de \"proteger los derechos de la poblacion, el funcionamiento pleno de las instituciones republicanas y pasar de inmediato a la lucha armada\". En redes sociales circulan imagenes de explosiones en varios puntos de la capital venezolana, mientras algunos usuarios reportaron detonaciones en el principal fuerte militar del pais, Fuerte Tiuna, al oeste de la ciudad y en la base militar de La Carlota. \"Fuerte Tiuna esta explotando\", se escucha decir a la gente que graba videos desde sus ventanas. Ademas, de acuerdo a vecinos de la zona hubo una explosion en una montana ubicada al frente del complejo militar, se fue \"inmediatamente\" la luz y luego se escucharon helicopteros y \"rafagas de tiros\". \"Una gran parte de los civiles habitantes de residencias dentro del Fuerte Tiuna empezaron a salir del complejo militar\", ha senalado un residente de la zona, que ha preferido no identificarse. Asimismo, varios aviones han sobrevolado la capital venezolana, y tambien se han escuchado explosiones y sobrevuelos en La Guaira, donde se encuentra el principal puerto del pais. Medios locales y usuarios en redes sociales han reportado explosiones en diversos puntos de la capital venezolana, como El Valle, los Proceres, La Pastora, 23 de Enero, La Carlota, entre otros. Igualmente, han informado de detonaciones en otras zonas del pais como La Guaira (norte, cercano a Caracas), Higuerote (norte, estado Miranda), asi como Maracay, capital del estado Aragua (norte). Testigos dijeron a EFE que las detonaciones se sintieron cerca del puerto de La Guaira, que estremecieron paredes, vidrios y camas de los edificios aledanos. Por su parte, el presidente de Colombia, Gustavo Petro, ha asegurado este sabado que Caracas esta siendo bombardeada: \"En este momento bombardean Caracas. Alerta a todo el mundo han atacado a Venezuela. Bombardean con misiles\", ha manifestado en un mensaje en X, donde ha pedido reuniones de urgencia de la Organizacion de Estados Americanos (OEA) y de la ONU. El presidente Trump advirtio en noviembre sobre la posibilidad de ataques en territorio venezolano en medio de su campana contra Venezuela y el Gobierno de Nicolas Maduro, al que acusa de supuestamente liderar una red de narcotrafico. El viernes de la semana pasada, el presidente estadounidense, Donald Trump, anuncio un ataque contra una \"gran instalacion\" dentro de su campana contra una red de narcotrafico liderada, segun Washington, por Venezuela, aunque no especifico si el ataque se produjo dentro del territorio venezolano. El pasado lunes, Trump indico que el ataque fue en un muelle, pero tampoco preciso la zona geografica del bombardeo. Segun informo el New York Times el lunes, la Agencia Central de Inteligencia (CIA) de Estados Unidos llevo a cabo la semana pasada un ataque con drones contra una instalacion portuaria en Venezuela. El jueves, Maduro dijo, en una entrevista, que el sistema defensivo de su pais \"ha garantizado y garantizara la integridad territorial\" venezolana, al ser consultado sobre este presunto ataque terrestre, que no confirmo ni desmintio.",
+    "hash": "7643fed1743f1a3d17e50da0690bb2ca",
+    "domain": "20minutos.es",
+    "scraped_at": "2026-01-03T09:01:12.323710"
+  },
+  {
+    "id": "uUCIdx",
+    "newspaper": "publico.es",
+    "date": "2026-01-03T08:59:37.474Z",
+    "tags": [],
+    "title": "Ver mas informacion de Venezuela sufre multiples explosiones y Maduro acusa a EEUU del ataque",
+    "subtitle": "Lo mas leido",
+    "url": "https://www.publico.es/internacional/america-latina/maduro-acusa-eeuu-ataque-madrugada-multiples-explosiones-caracas.html",
+    "author": "Néstor Prieto Amador",
+    "image": {
+      "url": "https://www.publico.es/files/image_horizontal_mobile/uploads/2026/01/03/6958d243e2c7e.jpeg",
+      "credits": "Imagen de las explosiones sobre Caracas en la madrugada del sábado. Video obtenido por Reuters — Video obtenido por Reuters"
+    },
+    "body": "Segun reportes iniciales, los ataques habrian alcanzado objetivos militares y zonas urbanas clave en la capital y su area metropolitana, asi como en localidades del litoral central y Miranda. Caracas-03/01/2026 09:33-Actualizado a03/01/2026 09:58 Cerca de las dos de la madrugada (hora local), varias explosiones simultaneas han sacudido distintos puntos de Venezuela. Hasta el momento, Estados Unidos no se ha pronunciado oficialmente sobre los hechos. En una primera reaccion, el Gobierno de Nicolas Maduro responsabilizo directamente a Washington y llamo a la \"union civico-militar\" para enfrentar la agresion \"imperialista\". En un comunicado oficial, el Ejecutivo venezolano afirmo: En un comunicado oficial, el Ejecutivo venezolano afirmo: \"La Republica Bolivariana de Venezuela rechaza, repudia y denuncia ante la comunidad internacional la gravisima agresion militar perpetrada por el Gobierno actual de los Estados Unidos de America contra territorio y poblacion venezolanos en las localidades civiles y militares de la ciudad de Caracas, capital de la Republica, y los estados Miranda, Aragua y La Guaira\". Segun reportes iniciales, los ataques habrian alcanzado objetivos militares y zonas urbanas clave en Caracas y su area metropolitana, asi como en localidades del litoral central y Miranda. Entre los puntos senalados figuran la Escuela Naval, Fuerte Tiuna -la mayor base militar del pais-, la Base Aerea de La Carlota, la Meseta de Mamo - sede de la Academia Militar de la Armada Bolivariana y la comandancia de la Infanteria de Marina Bolivariana-, el casco historico de Caracas y el Cuartel de la Montana -donde descansan los restos de Hugo Chavez-, ademas de sectores de Baruta, El Hatillo, Charallave e Higuerote. Fuentes locales tambien informan de la destruccion en Carmen de Uria y la sede de la Unidad de Operaciones Tacticas Especiales -una unidad de elite del Cuerpo de Policia Nacional Bolivariana-, sin que por el momento haya confirmacion oficial ni un balance de danos o victimas. Por el momento, solo se ha confirmado una unica oleada de ataques. Ningun ministro ni portavoz del Ejecutivo ha comparecido publicamente y todas las fuentes oficiales remiten, por ahora, al comunicado difundido por el Gobierno nacional, en el que se afirma que \"el intento de imponer una guerra colonial para destruir la forma republicana de gobierno y forzar un cambio de regimen, en alianza con la oligarquia fascista, fracasara como todos los intentos anteriores\". La situacion continua en desarrollo y a la espera de nuevas comunicaciones oficiales. Politologo y periodista especializado en politica internacional y geopolitica. Ha cubierto sobre el terreno procesos politicos y migratorios en Mexico, Venezuela, el Libano, Argelia y el Sahara Occidental. Compagina su labor academica con el analisis internacional en medios. Colabora con Publico en la seccion de Internacional. Comentarios de nuestros socias/os Para ver los comentarios de nuestros socias y socios, primero tienes que iniciar sesion o registrarte. Escribe tu comentario Recuerda las normas de la comunidad.",
+    "hash": "f350e07575fce6298baa0bd384b95502",
+    "domain": "publico.es",
+    "scraped_at": "2026-01-03T08:59:57.654162"
+  },
+  {
+    "id": "XnC9uy",
+    "newspaper": "El País",
+    "date": "2026-01-03T08:59:15.152Z",
+    "tags": [
+      "America",
+      "Latinoamerica",
+      "Venezuela",
+      "Chavismo",
+      "Nicolas Maduro",
+      "Donald Trump",
+      "Bombardeos",
+      "Caracas"
+    ],
+    "title": "Nicolas Maduro, el autocrata de un regimen aislado sin ninguna intencion de rendirse",
+    "subtitle": "",
+    "url": "https://elpais.com/america/2026-01-03/nicolas-maduro-el-autocrata-de-un-regimen-aislado-sin-ninguna-intencion-de-rendirse.html",
+    "author": "Juan Diego Quesada",
+    "image": {
+      "url": "https://imagenes.elpais.com/resizer/v2/RTDTQ3EJVRBPTMKOR2ZSTDZQM4.jpg?auth=25598441d0603c1ce68dbe2417cf7bf5b64b37cf772a9eaae3dbe6e502306524&width=414",
+      "credits": "Combo de fotografias que muestra al presidente de Venezuela, Nicolas Maduro (i), y al presidente de Estados Unidos, Donald Trump.Miguel Gutierrez/ SHAWN THEW (EFE)"
+    },
+    "body": "Nicolas Maduro lleva desde hace meses esperando un ataque de Estados Unidos que le ha llenado de zozobra a el y a todos los que le rodean. Por primera vez desde que sucedio a Hugo Chavez al mando de Venezuela siente que se encuentra en una situacion de verdadero peligro y ante una posibilidad real de ser derrocado. En el Palacio de Miraflores, la sede del Gobierno y su residencia habitual, se encuentran en alerta maxima. La sensacion es que ahora si ha ocurrido algo. Este sabado se han registrado explosiones en Caracas y otras ciudades del pais, cuyo origen no esta aclarado del todo, que el chavismo achaca a una agresion exterior. \"Bombardearon unos cinco puntos. En Caracas, Aragua y Miranda\", explica por telefono un alto mando chavista, cercano a Nicolas Maduro, que en todo momento mantiene la calma. El presidente de Venezuela ha dejado algo claro a su entorno: aqui nadie se rinde. Los que lo han tratado en este tiempo aseguran que esta dispuesto a llegar hasta el final y que no contempla un acuerdo con Washington que derive en su salida del poder. La posibilidad ni siquiera ha estado encima de la mesa. Maduro gobierna en solitario Venezuela, en contra de lo que muchos piensan. El numero 2 del regimen, Diosdado Cabello, ejerce una enorme influencia sobre todo el Gobierno y controla las bases chavistas, pero la ultima palabra la tiene siempre Maduro. No hay un poder compartido ni dividido, todo empieza y termina en el. Ninguno de sus cercanos valora iniciar una negociacion que inicie con la condicion de que el presidente de Venezuela debe irse. Jorge Rodriguez, su principal operador politico, ha intentado llegar a acuerdos puntuales con la administracion de Trump a traves de Richard Grenell, enviado especial de la Casa Blanca para Misiones Especiales de Estados Unidos, pero todos los intentos han sido infructuosos. Maduro y el ministro de Defensa, Vladimir Padrino Lopez, se han encargado en este tiempo de angustia de tener bajo control al ejercito bolivariano. Las investigaciones internas han sido constantes para evitar cualquier tipo de alzamiento o rebelion. \"Dudar es traicion\" es la consigna que se ha dado en todos los cuarteles, una frase que Diosado Cabello, por ejemplo, ha estampado en una gorra que usa para presentar su programa de television en la cadena publica. El poder se concentra en Maduro y lo ejercen no mas de un punado de personas de su maxima confianza. A Padrino y Jorge Rodriguez hay que sumar a la vicepresidenta, Delcy Rodriguez, hermana de Jorge, y a Cilia Flores, esposa de Maduro. De ahi emanan todas las directrices de este regimen vertical, un Estado controlado en todos sus recovecos por chavistas leales a la causa.",
+    "hash": "943826e99ac7bb1c5ea28cbad78719c2",
+    "domain": "elpais.com",
+    "scraped_at": "2026-01-03T08:59:17.538156"
+  },
+  {
+    "id": "JuC59Y",
+    "newspaper": "El País",
+    "date": "2026-01-03T08:59:14.655Z",
+    "tags": [
+      "America",
+      "Latinoamerica",
+      "Venezuela",
+      "Estados Unidos",
+      "Ataques militares"
+    ],
+    "title": "Registradas varias explosiones en Caracas en medio de las tensiones con EE UU",
+    "subtitle": "",
+    "url": "https://elpais.com/america/2026-01-03/se-reportan-explosiones-en-distintos-puntos-de-caracas-en-medio-de-las-tensiones-con-estados-unidos.html",
+    "author": "Florantonia Singer",
+    "image": {
+      "url": "https://imagenes.elpais.com/resizer/v2/SFJCBHZFYVC2PFKSI5XR5BTT34.jpg?auth=4bb7be389791fba38befe8bd8d4ce0efcdea6a93a29a560e3175e1299a1e8ed5&width=414",
+      "credits": "Imagen del aeropuerto de La Carlota con columnas de humo en la madrugada de este sabado.Matias Delacroix (AP)"
+    },
+    "body": "Poco antes de las 2 de la madrugada, el ruido de explosiones desperto a los caraquenos como si el cielo tronara. Aviones sobrevolando constantemente y destellos de explosiones y columnas de humo han comenzado a correr en las redes sociales. Los primeros reportes dan cuenta de varios bombardeos aereos en la base militar de Fuerte Tiuna, la principal de Caracas, ubicada al sur de la capital venezolana, que se ha quedado completamente sin luz. Un enorme incendio se observaba a lo lejos durante los primeros minutos de las explosiones a los que ha seguido una nube inmensa de humo gris. Tambien se han confirmado ataques a la base aerea de La Carlota y a otras instalaciones militares en Caracas, como el Cuartel de la Montana, donde reposan los restos de Hugo Chavez, y en Maracay y La Guaira, asi como en el aeropuerto de Higuerote, en el litoral central. En videos de usuarios de redes, tambien se han observado helicopteros sobrevolando la ciudad. Los bombardeos se producen despues de cuatro meses de tensiones y una escalada belica entre Washington y Caracas. Dos horas y media despues de que se reportaran las primeras explosiones, en el canal estatal VTV leyeron un comunicado en el que el Gobierno informaba que habia activado el estado de excepcion por conmocion exterior que tenian preparado desde octubre. El chavismo convoca de inmediato a \"lucha armada\" ante la agresion del Gobierno de Estados Unidos, decia el comunicado. \"Todo el pais debe activarse para derrotar esta agresion imperialista\". Segun el gobierno chavista, los ataques han alcanzado, ademas de la capital, Caracas, los Estados Miranda, Aragua y La Guaira. \"El objetivo de este ataque no es otro que apoderarse de los recursos estrategicos de Venezuela, en particular de su petroleo y minerales, intentando quebrar por la fuerza la independencia politica de la Nacion. No lo lograran\", se lee en un comunicado que publico el Gobierno de Nicolas Maduro. \"El intento de imponer una guerra colonial para destruir la forma republicana de gobierno y forzar un cambio de regimen, en alianza con la oligarquia fascista fracasara como todos los intentos anteriores\". Hasta el momento la Administracion estadounidense permanece muda sobre lo que ocurre, aunque el presidente Donald Trump llevaba amenazando meses con acciones militares en territorio venezolano, con el argumento inicial de luchar contra la droga y, mas tarde, de hacerse con el control del sector petrolero venezolano que, segun el, se le arrebato de manera ilegal a empresas estadounidenses y pertenece en realidad a Washington. Segun la periodista de la cadena CBS Jennifer Jacobs, aunque hasta el momento no se han producido declaraciones oficiales, funcionarios de la Casa Blanca estan al tanto de lo que esta ocurriendo en Venezuela esta madrugada. La semana pasada, el presidente Donald Trump dijo que habia hecho un primer ataque en tierra contra un muelle usado por narcotraficantes durante el mes de diciembre. De la operacion no hay todavia informacio",
+    "hash": "97a7b84e2567174e8c76829ceea055bd",
+    "domain": "elpais.com",
+    "scraped_at": "2026-01-03T08:59:17.538152"
+  },
+  {
+    "id": "fyX1qv",
+    "newspaper": "El País",
+    "date": "2026-01-03T08:59:14.174Z",
+    "tags": [],
+    "title": "El Gobierno de Maduro atribuye a EE UU las explosiones y las considera una \"gravisima agresion militar\" contra Venezuela",
+    "subtitle": "",
+    "url": "https://elpais.com/internacional/2026-01-03/ultima-hora-de-las-explosiones-en-venezuela-en-directo.html",
+    "author": "El Pais",
+    "image": {
+      "url": "https://imagenes.elpais.com/resizer/v2/FDI6OJYHZZE6LD267L6EUEB6OI.jpg?auth=2ad3d9146056097c55a10c507a64a4efc7defcc7814f52f848dad016b6bdbad5&width=414",
+      "credits": "Una columna de humo se eleva sobre Caracas, Venezuela, tras las explosiones registradas en la madrugada de este sabado. VIDEO OBTAINED BY REUTERS (via REUTERS)"
+    },
+    "body": "El Gobierno de Venezuela ha denunciado que las explosiones registradas son una \"gravisima agresion militar\" estadounidense contra el pais. El comunicado detalla que las explosiones se han producido en localidades civiles y militares de los estados de Miranda, Aragua, La Guaira y la capital del pais, Caracas, y ha ordenado \"el despligeue del comando para la defensa integral de la nacion\". Ademas, el Gobierno venezolano ha decretado el estado de emergencia y ha llamado a sus ciudadanos a defender el pais. Varias detonaciones con sobrevuelo de aviones se han escuchado en la madrugada de este sabado en varias ciudades venezolanas, entre ellas Caracas, en unos momentos en que Venezuela ha denunciado \"amenazas\" del Gobierno del presidente de Estados Unidos, Donald Trump, por el despliegue militar en el Caribe y las advertencias de ataques terrestres. El presidente de Colombia, Gustavo Petro, ha asegurado que Caracas esta siendo \"bombardeada\" despues de que se escucharan las explosiones, y ha pedido reuniones \"urgentes\" de la ONU y de la Organizacion de Estados Americanos (OEA). EE UU ataca Venezuela, segun un funcionario estadounidense citado por Reuters Estados Unidos esta llevando a cabo ataques dentro de Venezuela, segun ha declarado a Reuters un funcionario estadounidense la madrugada del sabado. El funcionario, que ha hablado bajo condicion de anonimato, no ha proporcionado detalles. (Reuters) La oposicion venezolana en el exilio aun no va a pronunciarse sobre las explosiones Fuentes cercanas a la oposicion venezolana en el exilio han dicho a este diario que por el momento no tienen previsto hacer ningun comentario sobre las explosiones registradas en Caracas y otros puntos del territorio venezolano esta madrugada ni sobre el comunicado del Gobierno de Nicolas Maduro. Han agregado que van a esperar a que se confirme la informacion antes de pronunciarse. El presidente de Cuba: \"Patria o Muerte !Venceremos!\" Miguel Diaz-Canel Bermudez, presidente de la Republica de Cuba, ha pedido de manera \"urgente\" la reaccion de la comunidad internacional contra el \"ataque criminal\" de EE UU a Venezuela. \"Nuestra zona de paz esta siendo brutalmente asaltada. Terrorismo de Estado contra el bravo pueblo venezolano y contra Nuestra America. Patria o Muerte !Venceremos!\", ha publicado en su cuenta de X. Estados Unidos prohibe las operaciones en espacio aereo venezolano en medio de los ataques La Fuerza Aerea de Estados Unidos ha emitido un aviso oficial este sabado que prohibe a todas las aeronaves circular por el espacio aereo de Venezuela, en medio de ataques en la capital del pais sudamericano. La Administracion Federal de Aviacion (FAA) de Estados Unidos ha prohibido a los aviones comerciales estadounidenses operar a cualquier altitud sobre el espacio aereo de Venezuela, al alegar riesgos para la seguridad derivados de la actividad militar en curso sobre Caracas y otros puntos del territorio venezolano. El aviso, conocido como notam, ha entrado en vigor a las dos",
+    "hash": "cb02ef2d175464321fb3cf1c6433e478",
+    "domain": "elpais.com",
+    "scraped_at": "2026-01-03T08:59:17.538144"
+  },
+  {
+    "id": "LAafUT",
+    "newspaper": "eldiario.es",
+    "date": "2026-01-03T08:58:28.252Z",
+    "tags": [
+      "Internacional",
+      "Venezuela",
+      "Nicolas Maduro",
+      "EEUU",
+      "Donald Trump",
+      "Narcotrafico",
+      "Terrorismo"
+    ],
+    "title": "Que es el Cartel de los Soles, la organizacion fantasma que Trump usa para acorralar a Maduro en Venezuela",
+    "subtitle": "-- Caracas sufre un ataque militar aereo con multiples explosiones y Venezuela acusa a EEUU",
+    "url": "https://www.eldiario.es/internacional/cartel-soles-organizacion-fantasma-trump-acorralar-maduro-venezuela_1_12882840.html",
+    "author": "Victor Honorato",
+    "image": {
+      "url": "https://static.eldiario.es/clip/eed9d199-c498-4251-af88-53fb205d9bba_16-9-discover-aspect-ratio_default_1131131.jpg",
+      "credits": "EFE/Prensa Miraflores"
+    },
+    "body": "El pais que declaro \"la guerra contra las drogas\" --Richard Nixon, en los anos 70-- y emprendio con el cambio de siglo una \"guerra contra el terrorismo\" --George W. Bush, desde 2001-- esta inmerso ahora en una nueva contienda donde el enemigo es difuso y mutable, en funcion de las circunstancias: se trata de la guerra contra el \"narcoterrorismo\", sintesis de los dos conceptos anteriores, en la que el enemigo principal es hoy, segun repite el mandatario estadounidense, Donald Trump, el lider venezolano, Nicolas Maduro. Es el quien esta al mando del llamado \"Cartel de los Soles\", organizacion criminal que la gran potencia se apresta a erradicar, a pesar de las dificultades que existen para definir su contorno y jerarquia, e incluso su existencia como tal. Este sabado, Venezuela ha sido objeto de varias explosiones, en plena escalada de las tensiones con EEUU. El Gobierno de Maduro senala a Estados Unidos denuncia la \"gravisima agresion militar perpetrada por el Gobierno actual de EEUU\" en localidades civiles y militares de los estados de Miranda, Aragua, La Guaira y la capital del pais, Caracas. Las primeras referencias al Cartel de los Soles se remontan a los anos 90, relacionadas con la connivencia entre elementos militares venezolanos y el negocio del narcotrafico, cuyas redes empezaban a extenderse desde la limitrofe Colombia. Segun recuerda un informe de la fundacion estadounidense InsightCrime, que sigue la evolucion del crimen organizado en America Latina, el nombre hacia referencia al sol de las charreteras de los oficiales de brigada del ejercito del pais caribeno. El cartel era inicialmente \"del sol\", pero pasaron a ser \"soles\", en plural, cuando se empezo a senalar la implicacion de oficiales de mayor rango, que llevaba dos astros en el uniforme, en lugar de uno. Es una denominacion que se impuso desde fuera para una red criminal compuesta por miembros del ejercito venezolano. \"Nadie sabe si existe o no existe. Estas redes funcionan asi, muy descentralizadas, precisamente por su seguridad. No es una organizacion compacta. Son grupos que tienen sus relaciones. No hay un solo grupo\", dice Anna Ayuso, investigadora senior para America Latina del Barcelona Center for International Affairs (CIDOB) desde 2002. Para Trump y su Gobierno, el Cartel de los Soles es una organizacion perfectamente jerarquizada con Maduro a la cabeza. Ayuso pone en solfa las acusaciones estadounidenses. \"Una cosa es que haya generales y un sector del ejercito implicados en relaciones con el narcotrafico y otra cosa es que ellos lideren ese cartel. Lo que hacen es negocios: ellos [los militares] proporcionan recursos, hacen la vista gorda, muestran connivencia. [Pero] de que sean ellos los que organicen esa actividad de narcotrafico no hay evidencias. Y mucho menos que sea directamente el Gobierno\", indica. Pese al caracter difuso de la organizacion, EEUU lleva meses cargando las tintas contra el Gobierno venezolano, y, en especial, contra Nicolas Maduro. El pasado ve",
+    "hash": "8b950f7f9251a0a13e62a2328ae49925",
+    "domain": "eldiario.es",
+    "scraped_at": "2026-01-03T08:59:09.285437"
+  },
+  {
+    "id": "agUyd5",
+    "newspaper": "eldiario.es",
+    "date": "2026-01-03T08:58:27.403Z",
+    "tags": [
+      "Internacional",
+      "EEUU",
+      "Estados Unidos",
+      "Donald Trump",
+      "Venezuela",
+      "Nicolas Maduro"
+    ],
+    "title": "Ultima hora de los ataques sobre Venezuela, en directo",
+    "subtitle": "",
+    "url": "https://www.eldiario.es/internacional/ultima-hora-ataques-venezuela-directo_6_12882854.html",
+    "author": "elDiario.es",
+    "image": {
+      "url": "https://static.eldiario.es/clip/8b8fa530-1ac5-476d-b59d-0d1779a7c46e_16-9-discover-aspect-ratio_default_0_x1059y955.jpg",
+      "credits": "Europa Press / Contacto / Li Muzi"
+    },
+    "body": "Venezuela denuncia que su capital, Caracas, sufre una \"gravisima agresion militar\" de Estados Unidos. Aviones y helicopteros militares sobrevuelan los puntos estrategicos de la ciudad esta madrugada, y se han notificado explosiones en el principal fuerte militar del pais, Fuerte Tiuna, y en la base militar de La Carlota. Los ataques llegan en un momento en el que el presidente de Estados Unidos, Donald Trump, ha amenazado con ataques terrestres a Venezuela, despues de meses bombardeando barcos a los que acusa de narcotrafico. Washingtonno ha hecho declaraciones de momento. El presidente de Venezuela, Nicolas Maduro, ha declarado el estado de conmocion exterior en todo el territorio nacional tras denunciar una \"agresion militar perpetrada por el Gobierno actual de los Estados Unidos\" la madrugada de este sabado en Caracas y los estados cercanos de Miranda, Aragua y La Guaira. En un comunicado, el Ejecutivo informo de que el jefe de Estado \"ha firmado y ordenando la implementacion del decreto que declara el estado de conmocion exterior\", con el fin de \"proteger los derechos de la poblacion, el funcionamiento pleno de las instituciones republicanas y pasar de inmediato a la lucha armada\".",
+    "hash": "c4a1783b0efb7acb769819d31f9bf16c",
+    "domain": "eldiario.es",
+    "scraped_at": "2026-01-03T08:59:09.285433"
+  },
+  {
+    "id": "spMemJ",
+    "newspaper": "El Mundo",
+    "date": "2026-01-03T08:58:10.806Z",
+    "tags": [
+      "Directo"
+    ],
+    "title": "Bombardeos en Venezuela, en directo | \"El suelo se estremecio. Esto es horrible. Se escuchaban explosiones y aviones\"",
+    "subtitle": "En varios vecindarios de Caracas los residentes salieron corriendo a la calle tras escuchar las explosiones",
+    "url": "https://www.elmundo.es/internacional/2026/01/03/6958d1b91ee97cbdb65e0b80-directo.html",
+    "author": "Henar Andres Madrid",
+    "image": {
+      "url": "https://e01-phantom-elmundo.uecdn.es/e0e71d0e77f8911642edfaca4363a2c9/resize/600/assets/multimedia/imagenes/2026/01/03/17674299834781.jpg",
+      "credits": "Matias Delacroix — Gente corriendo en las calles de Caracas tras las primeras explosiones."
+    },
+    "body": "Numerosas explosiones se han escuchado durante esta madrugada en diferentes zonas de Venezuela, incluida la capital Caracas, que ha sufrido cortes de luz. El gobierno de Maduro acusa a Estados Unidos de estar detras de esta \"gravisima agresion militar\", despues de las amenazas de Donald Trump.\n\nAunque no hay confirmacion oficial de la Casa Blanca ni el Pentagono, las cadenas CBS News y Fox News citan a del gobierno de EEUU que si confirma la participacion de las fuerzas estadounidenses en la operacion.\n\nLa confusion inicial era maxima con la gente corriendo por las calles. \"El piso se estremecio. Esto es horrible. Se escuchaban explosiones y aviones\", dijo Carmen Hidalgo, una trabajadora de oficina de 21 anos que caminaba con prisa acompanada por dos familiares de regreso de una fiesta de cumpleanos. \"Sentimos como que el aire te golpeaba\".\n\nEl presidente de Cuba, Miguel Diaz-Canel, denuncio este sabado el \"criminal ataque\" de Estados Unidos contra Venezuela y dijo que \"nuestra Zona de Paz esta siendo brutalmente asaltada\". \"Cuba denuncia y demanda URGENTE reaccion de la comunidad internacional contra criminal ataque de E.U a Venezuela. Nuestra Zona De Paz esta siendo brutalmente asaltada. Terrorismo de Estado contra el bravo pueblo venezolano y contra Nuestra America\", advirtio en su cuenta de X.\n\nPor su parte, el canciller cubano, Bruno Rodriguez, condeno \"energicamente la agresion militar en curso de EEUU contra Venezuela\". \"Los bombardeos y acciones belicas contra Caracas y otras localidades del pais son actos cobardes contra una nacion que no ha agredido a EEUU ni a ningun otro pais\", senalo.\n\nFuego y algunos danos en el vallado de la Base Aerea Generalisimo Francisco de Miranda, tambien conocida como La Carlota, el principal aeropuerto militar de Caracas, fueron constatados por EFE la madrugada de este sabado, despues de que el Gobierno de Venezuela denuncio una \"agresion militar\" de Estados Unidos.\n\nAdemas del fuego, en el lugar se observaban restos de arboles y destrozos en la principal autopista de la ciudad, adyacente a la instalacion militar, donde tambien se encontraban uniformados en vehiculos que rodeaban la zona.",
+    "hash": "67b9b9732d7fba93127f8af94c3fbba0",
+    "domain": "elmundo.es",
+    "scraped_at": "2026-01-03T08:58:23.096988"
+  },
+  {
+    "id": "t4EpPt",
+    "newspaper": "abc.es",
+    "date": "2026-01-03T08:57:49.072Z",
+    "tags": [
+      "Aemet",
+      "Yolanda Diaz",
+      "Oposiciones",
+      "Seguridad Social",
+      "Jubilacion",
+      "Vivienda",
+      "Crans-Montana",
+      "Pensiones Pais Vasco"
+    ],
+    "title": "EE.UU. ataca Venezuela",
+    "subtitle": "Bombardeados objetivos militares en Caracas, La Guaira y Aragua; el regimen llama a la movilizacion popular",
+    "url": "https://www.abc.es/internacional/registran-fuertes-explosiones-distintos-lugares-caracas-20260103075201-nt.html",
+    "author": "David Alandete",
+    "image": {
+      "url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2026/01/03/venezuela-kxGF-U1014800811171LI-1200x840@diario_abc.JPG",
+      "credits": "EE.UU. ataca Venezuela"
+    },
+    "body": "Estados Unidos bombardeo Venezuela en la madrugada del sabado 3 de enero, por orden de Donald Trump, tras meses de advertencias publicas y una escalada sostenida de presion militar, segun relataron multiples testigos en el pais. Las explosiones comenzaron alrededor de las dos de la ... madrugada y marcaron un punto de no retorno en el enfrentamiento entre Washington y el Gobierno de Nicolas Maduro. A partir de las 02:00 (las 07:00 en Espana), se registraron multiples explosiones y el sobrevuelo de aeronaves sobre Caracas y otros puntos del pais, con columnas de humo visibles desde distintos sectores de la capital. Varios testigos relataron ruidos intensos y vuelos a baja altura. Al filo de las 03:00 hora de Washington (09:00 en Espana), un portavoz de la presidencia estadounidense confirmo que Trump habia dado la orden, decidida antes de Navidad. En un comunicado oficial, el regimen de Maduro denuncio lo que califica de una <<gravisima agresion militar>> contra Venezuela, que atribuye directamente a EE.UU. Sostiene que los ataques afectaron a zonas civiles y militares de Caracas y a los estados Miranda, Aragua y La Guaira, y los presenta como una <<violacion flagrante>> de la Carta de las Naciones Unidas y de la soberania venezolana. El texto de la dictadura asegura que el objetivo real del ataque es <<apoderarse de los recursos estrategicos de Venezuela, en particular de su petroleo y minerales>>, e imponer por la fuerza un cambio de regimen, algo que, segun el comunicado, <<no lo lograran>>. Se trata de un ataque sin precedentes porque rompe con decadas de contencion militar directa de EE.UU. en America Latina y se produce sin una guerra declarada, sin mandato internacional y sin autorizacion explicita del Capitolio. A diferencia de intervenciones anteriores, como en Panama en 1989, no se enmarca en un conflicto armado abierto ni en una invasion formal, sino en una campana presentada como antidroga y antiterrorista que deriva en bombardeos selectivos sobre el territorio de un Estado soberano. El regimen chavista llama ahora la movilizacion general bajo la consigna <<pueblo a la calle>> y afirma que la Fuerza Armada Nacional Bolivariana esta desplegada en <<perfecta fusion popular-militar-policial>>. Trump habia instado publicamente a Maduro y a su circulo a abandonar el poder y los habia acusado de narcotrafico, terrorismo y de provocar una oleada migratoria masiva hacia EE.UU. El dictador y otros jerarcas estan imputados en EE.UU. por narcotrafico. En su primer mandato, en 2019, Trump apoyo un pronunciamiento fallido contra el dirigente venezolano y, mas recientemente, la Administracion estadounidense acuso al regimen de haber manipulado las elecciones de 2024. Segun las mismas fuentes en Washington, la orden de atacar fue adoptada por Trump con varios dias de antelacion. La opcion de un golpe en tierra se puso sobre la mesa ya en torno a la Navidad, pero quedo aplazada por otras prioridades operativas del Pentagono y por condiciones meteorolo",
+    "hash": "caf7461395fd5d9eedbbb451bc894b62",
+    "domain": "abc.es",
+    "scraped_at": "2026-01-03T08:58:08.076750"
+  },
+  {
+    "id": "Vt7NsD",
+    "newspaper": "abc.es",
+    "date": "2026-01-03T08:57:48.419Z",
+    "tags": [
+      "Aemet",
+      "Yolanda Diaz",
+      "Oposiciones",
+      "Seguridad Social",
+      "Jubilacion",
+      "Vivienda",
+      "Crans-Montana",
+      "Pensiones Pais Vasco"
+    ],
+    "title": "El Gobierno de Maduro denuncia una <<gravisima agresion militar>> de EE.UU.",
+    "subtitle": "",
+    "url": "https://www.abc.es/internacional/gobierno-maduro-denuncia-gravisima-agresion-militar-eeuu-20260103094007-nt.html",
+    "author": "ABC",
+    "image": {
+      "url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/01/03/maduroo-U1051205239m8-U101480831076nOI-1200x840@diario_abc.jpg",
+      "credits": "El Gobierno de Maduro denuncia una «gravísima agresión militar» de EE.UU."
+    },
+    "body": "El Gobierno de Venezuela denuncio este sabado una <<gravisima agresion militar>> estadounidense en localidades civiles y militares de los estados de Miranda, Aragua, La Guaira y la capital del pais, Caracas, y ordeno <<el despligeue del comando para la defensa integral de la nacion>>. << ... Se ha ordenado el inmediato despliegue del Comando para la Defensa Integral de la Nacion y de los Organos de Direccion para la Defensa Integral en todos los estados y municipios del pais>>, dijo el Gobierno en un comunicado leido en la television estatal VTV. La Administracion de Maduro tambien declaro el estado <<conmocion exterior>> para proteger el territorio nacional y pasar <<de inmediato a la lucha armada>>. Como parte de este mismo decreto anuncio el despliegue militar y policial. Este hecho constituye <<una violacion flagrante de la Carta de las Naciones Unidas, especialmente de sus articulos 1 y 2, que consagran el respeto a la soberania, la igualdad juridica de los Estados y la prohibicion del uso de la fuerza>>, anadio el Gobierno al alertar que esta <<agresion amenaza la paz y estabilidad internacional, concretamente de America Latina y el Caribe, y pone en grave riesgo la vida de millones de personas>>. Ademas, dijo que se reserva el derecho a ejercer el <<legitimo>> derecho a la defensa para proteger a su pueblo y su territorio, al citar el articulo 51 de la Carta de las Naciones Unidas. El Gobierno tambien presentara una denuncia ante el Consejo de Seguridad de la ONU y el Movimiento de Paises No Alineados (MNOAL) y la Comunidad de Estados Latinoamericanos y Caribenos (CELAC) <<exigiendo la condena y rendicion de cuentas del Gobierno estadounidense>>. Varias detonaciones se han escuchado la madrugada del sabado en Caracas, La Guaira y Miranda en medio de las tensiones con Estados Unidos que desplego en agosto buques de guerra en el mar Caribe, cerca de costas venezolanas y Caracas denuncio amenazas. Trump advirtio en noviembre de la posibilidad de ataques sobre territorio venezolano en medio de su campana contra Venezuela y del Gobierno de Nicolas Maduro, al que acusa de supuestamente liderar una red de narcotrafico. El pasado viernes, el presidente estadounidense anuncio un ataque contra una <<gran instalacion>> dentro de su campana contra una red de narcotrafico liderada, segun Washington, por Venezuela, aunque no especifico si el hecho se produjo dentro del territorio venezolano. El lunes, Trump indico que el ataque fue en un muelle, pero tampoco preciso la zona geografica del bombardeo.",
+    "hash": "4a9d67170644f8c728958853d67a93f3",
+    "domain": "abc.es",
+    "scraped_at": "2026-01-03T08:58:08.076746"
+  },
+  {
+    "id": "HnCd5R",
+    "newspaper": "abc.es",
+    "date": "2026-01-03T08:57:47.937Z",
+    "tags": [
+      "Aemet",
+      "Yolanda Diaz",
+      "Oposiciones",
+      "Seguridad Social",
+      "Jubilacion",
+      "Vivienda",
+      "Crans-Montana",
+      "Pensiones Pais Vasco"
+    ],
+    "title": "Conflicto militar ente Venezuela y Estados Unidos, en directo: explosiones en Caracas y ultimas noticias hoy",
+    "subtitle": "Sigue en directo la ultima hora sobre las explosiones en Caracas y algunas bases militares",
+    "url": "https://www.abc.es/internacional/registran-varias-explosiones-caracas-incluidas-instalaciones-militares-20260103085206-di.html",
+    "author": "ABC",
+    "image": {
+      "url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/01/03/caracas-ataque-kFtH-U101480391814WVB-1200x840@diario_abc.jpg",
+      "credits": "Conflicto militar ente Venezuela y Estados Unidos, en directo: explosiones en Caracas y ultimas noticias hoy"
+    },
+    "body": "El Gobierno de Venezuela denuncio este sabado una <<gravisima agresion militar>> estadounidense en localidades civiles y militares de los estados de Miranda, Aragua, La Guaira y la capital del pais, Caracas, y ordeno <<el despliegue del comando para la defensa integral de la nacion>>. La ... Casa Blanca confirma que Donald Trump ha dado la orden de atacar varios objetivos militares en Venezuela Mientras se desarrollaban los ataques en Venezuela, la Administracion Federal de Aviacion de EE.UU. prohibio a las aerolineas comerciales estadounidenses operar a cualquier altitud sobre el espacio aereo venezolano, alegando <<riesgos para la seguridad de vuelo asociados a la actividad militar en curso>>. La notificacion fue emitida a las 02:00 de la madrugada, hora local de Caracas (07:00 en Espana, y estaba previsto que permaneciera en vigor hasta la 01:00 de la madrugada del domingo, hora de Caracas. La orden no se aplica a aeronaves extranjeras ni a aviones militares. Informa: David Alandete, corresponsal en Washington La circulacion de varios videos en redes sociales apunta a que en algunos puntos se habrian empleado helicopteros en los ataques, vinculados a unidades de fuerzas especiales. Seria por tanto una operacion con presencia muy limitada de efectivos militares o de inteligencia de EE.UU. sobre el terreno, destinada a tareas de apoyo y coordinacion. Un despliegue de ese tipo presupone ademas que el riesgo para aeronaves volando a baja altura fue considerado asumible, lo que implicaria la inhibicion de los radares venezolanos y la existencia de dispositivos de rescate previamente activados, listos para intervenir en caso de emergencia. Informa: David Alandete, corresponsal en Washington Fuentes del Gobierno de Espana asegura que estan recabando toda la informacion. El ministro de Asuntos Exteriores, Union Europea y Cooperacion, Jose Manuel Albares, ha hablado ya con el embajador de Espana en Venezuela y todo el personal se encuentra a salvo. \"Solo podemos confirmar que se trata de un ataque aereo\", aseguran en un comunicado. Petro comparte un balance de instalaciones atacadas El presidente de Colombia: \"En este momento bombardean Caracas. Alerta a todo el mundo han atacado a Venezuela. Bombardean con misiles. Debe reunirse la OEA y la ONU de inmediato\" Maduro anuncia la activacion de todos los planes de defensa nacional y la firma de un decreto que declara el estado de Conmocion Exterior en todo el territorio, para \"proteger los derechos de la poblacion, garantizar el funcionamiento de las instituciones y pasar de inmediato a la lucha armada\". Llama a la movilizacion general bajo la consigna \"pueblo a la calle\" y afirma que la Fuerza Armada Nacional Bolivariana esta desplegada en \"perfecta fusion popular-militar-policial\". En el plano internacional, ordena presentar denuncias ante la ONU, la CELAC y el Movimiento de Paises No Alineados, invoca el articulo 51 de la Carta de la ONU para reservarse el derecho a la legitima defensa y convoca a los p",
+    "hash": "00c8e292286df804fc9dd6ad98dcb816",
+    "domain": "abc.es",
+    "scraped_at": "2026-01-03T08:58:08.076741"
+  },
+  {
+    "id": "t4EpPt",
+    "newspaper": "abc.es",
+    "date": "2026-01-03T08:57:47.449Z",
+    "tags": [
+      "Aemet",
+      "Yolanda Diaz",
+      "Oposiciones",
+      "Seguridad Social",
+      "Jubilacion",
+      "Vivienda",
+      "Crans-Montana",
+      "Pensiones Pais Vasco"
+    ],
+    "title": "EE.UU. ataca Venezuela",
+    "subtitle": "Bombardeados objetivos militares en Caracas, La Guaira y Aragua; el regimen llama a la movilizacion popular",
+    "url": "https://www.abc.es/internacional/registran-fuertes-explosiones-distintos-lugares-caracas-20260103075201-nt.html",
+    "author": "David Alandete",
+    "image": {
+      "url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/01/03/venezuela-kxGF-U1014800811171LI-758x531@diario_abc.JPG",
+      "credits": "EE.UU. ataca Venezuela"
+    },
+    "body": "Estados Unidos bombardeo Venezuela en la madrugada del sabado 3 de enero, por orden de Donald Trump, tras meses de advertencias publicas y una escalada sostenida de presion militar, segun relataron multiples testigos en el pais. Las explosiones comenzaron alrededor de las dos de la ... madrugada y marcaron un punto de no retorno en el enfrentamiento entre Washington y el Gobierno de Nicolas Maduro. A partir de las 02:00 (las 07:00 en Espana), se registraron multiples explosiones y el sobrevuelo de aeronaves sobre Caracas y otros puntos del pais, con columnas de humo visibles desde distintos sectores de la capital. Varios testigos relataron ruidos intensos y vuelos a baja altura. Al filo de las 03:00 hora de Washington (09:00 en Espana), un portavoz de la presidencia estadounidense confirmo que Trump habia dado la orden, decidida antes de Navidad. En un comunicado oficial, el regimen de Maduro denuncio lo que califica de una <<gravisima agresion militar>> contra Venezuela, que atribuye directamente a EE.UU. Sostiene que los ataques afectaron a zonas civiles y militares de Caracas y a los estados Miranda, Aragua y La Guaira, y los presenta como una <<violacion flagrante>> de la Carta de las Naciones Unidas y de la soberania venezolana. El texto de la dictadura asegura que el objetivo real del ataque es <<apoderarse de los recursos estrategicos de Venezuela, en particular de su petroleo y minerales>>, e imponer por la fuerza un cambio de regimen, algo que, segun el comunicado, <<no lo lograran>>. Se trata de un ataque sin precedentes porque rompe con decadas de contencion militar directa de EE.UU. en America Latina y se produce sin una guerra declarada, sin mandato internacional y sin autorizacion explicita del Capitolio. A diferencia de intervenciones anteriores, como en Panama en 1989, no se enmarca en un conflicto armado abierto ni en una invasion formal, sino en una campana presentada como antidroga y antiterrorista que deriva en bombardeos selectivos sobre el territorio de un Estado soberano. El regimen chavista llama ahora la movilizacion general bajo la consigna <<pueblo a la calle>> y afirma que la Fuerza Armada Nacional Bolivariana esta desplegada en <<perfecta fusion popular-militar-policial>>. Trump habia instado publicamente a Maduro y a su circulo a abandonar el poder y los habia acusado de narcotrafico, terrorismo y de provocar una oleada migratoria masiva hacia EE.UU. El dictador y otros jerarcas estan imputados en EE.UU. por narcotrafico. En su primer mandato, en 2019, Trump apoyo un pronunciamiento fallido contra el dirigente venezolano y, mas recientemente, la Administracion estadounidense acuso al regimen de haber manipulado las elecciones de 2024. Segun las mismas fuentes en Washington, la orden de atacar fue adoptada por Trump con varios dias de antelacion. La opcion de un golpe en tierra se puso sobre la mesa ya en torno a la Navidad, pero quedo aplazada por otras prioridades operativas del Pentagono y por condiciones meteorolo",
+    "hash": "caf7461395fd5d9eedbbb451bc894b62",
+    "domain": "abc.es",
+    "scraped_at": "2026-01-03T08:58:08.076727"
+  },
+  {
     "id": "ipzqkA",
     "newspaper": "20minutos.es",
     "date": "2026-01-03T08:37:21.505Z",

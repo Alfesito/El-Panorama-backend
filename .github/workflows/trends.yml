@@ -1,5 +1,4 @@
-name: 🌐 Trends Google + X Update
-
+name: 🌐 Google Trends ES Update
 on:
   schedule:
     - cron: '*/30 * * * *'
@@ -11,27 +10,28 @@ jobs:
     steps:
     - name: Checkout
       uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}  # 🔑 Necesario para push
     
-    - name: Python 3.11
+    - name: Setup Python
       uses: actions/setup-python@v5
       with:
         python-version: '3.11'
     
-    - name: Install Playwright + deps
+    - name: Install deps
       run: |
-        pip install --upgrade pip
         pip install playwright
         playwright install --with-deps chromium
     
-    - name: 🌐 Scrape Trends → JSON
-      run: |
-        python trends_scraper.py
-      timeout-minutes: 10  # ← 10min timeout total
+    - name: Scrape Trends
+      run: python trends_scraper.py
     
-    - name: Commit JSON (si existe)
-      if: always()
+    - name: Debug: List files
+      run: ls -la *.json  # Verifica JSON creado
+    
+    - name: Commit JSON
       uses: stefanzweifel/git-auto-commit-action@v5
       with:
-        file_pattern: 'trends_google&x.json'
-        commit_message: "🌐 Trends Update $(date +%H:%M) [${{ github.run_number }}]"
-        skip_fetch: true
+        commit_message: "🌐 Trends Update ${{ github.run_number }} $(date +%H:%M)"
+        file_pattern: 'trends_google_es.json'
+        push_options: '--force'  # 🔧 Fuerza push

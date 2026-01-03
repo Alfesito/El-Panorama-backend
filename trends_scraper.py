@@ -1,10 +1,9 @@
-#!/usr/bin/env python3
+ #!/usr/bin/env python3
 """
-Google Trends + X Trends España - RESILIENTE para GitHub Actions
-✅ Google 24h/4h SIEMPRE funciona
-✅ X Trends opcional (no rompe si falla)
-✅ Timeout protegidos
-Campos: id, title, source, volume, timeframe
+Google Trends España 24h/4h - 100% GitHub Actions Compatible
+✅ Solo Google (X bloqueado en Actions)
+✅ IDs secuenciales para ordenar
+✅ JSON público listo
 """
 
 import json
@@ -14,19 +13,19 @@ from playwright.async_api import async_playwright
 import re
 
 async def scrape_trends(hours):
-    """Scrapea Google Trends - ESTABLE"""
+    """Google Trends - ESTABLE"""
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=True)
         context = await browser.new_context(
-            user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+            user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
         )
         page = await context.new_page()
         
         url = f"https://trends.google.com/trending?geo=ES&hl=es&sort=search-volume&hours={hours}"
-        await page.goto(url, wait_until='networkidle')
+        await page.goto(url, wait_until='domcontentloaded', timeout=45000)  # 🔧 domcontentloaded
         
         await page.wait_for_selector('table.enOdEe-wZVHld-zg7Cn', timeout=30000)
-        await page.wait_for_selector('tr[data-row-id]', timeout=10000)
+        await page.wait_for_selector('tr[data-row-id]', timeout=20000)
         
         rows = await page.query_selector_all('tr[data-row-id]')
         trends = []
@@ -46,9 +45,9 @@ async def scrape_trends(hours):
                 time = await time_elem.inner_text() if time_elem else ''
                 
                 trends.append({
-                    'id': i + 1,  # ID secuencial
+                    'id': i + 1 if hours == '24' else i + 20,  # 1-19=24h, 20-39=4h
                     'title': title.strip(),
-                    'source': 'google',
+                    'source': f'google_{hours}h',
                     'volume': volume.strip(),
                     'timeframe': f"{time.strip()} ({hours}h)"
                 })
@@ -59,95 +58,23 @@ async def scrape_trends(hours):
         print(f"✅ Google {hours}h: {len(trends)} trends")
         return trends
 
-async def scrape_xtrends():
-    """Scrapea X Trends - OPCIONAL con timeout protegido"""
-    try:
-        async with async_playwright() as p:
-            browser = await p.chromium.launch(headless=True)
-            context = await browser.new_context(
-                user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-                viewport={'width': 1920, 'height': 1080}
-            )
-            page = await context.new_page()
-            
-            # 🔧 TIMEOUTs altos + domcontentloaded
-            page.set_default_timeout(60000)
-            url = "https://trends24.in/spain/"
-            await page.goto(url, wait_until='domcontentloaded', timeout=45000)
-            
-            await page.wait_for_selector('section.stat-card', timeout=30000)
-            
-            trends = []
-            sections = await page.query_selector_all('section.stat-card')
-            base_id = 100
-            
-            for sec_idx, section in enumerate(sections):
-                try:
-                    list_elem = await section.query_selector('ol.stat-card-list')
-                    if not list_elem:
-                        continue
-                    
-                    items = await list_elem.query_selector_all('li.stat-card-item')
-                    
-                    for i, item in enumerate(items[:10]):
-                        try:
-                            link_elem = await item.query_selector('a.trend-link')
-                            title = await link_elem.inner_text() if link_elem else ''
-                            
-                            if not title.strip():
-                                continue
-                            
-                            item_text = await item.inner_text()
-                            volume = 'N/A'
-                            
-                            match = re.search(r'with ([d.]+[KMB]?) tweet', item_text, re.IGNORECASE)
-                            if match:
-                                volume = match.group(1) + 'M tweets'
-                            
-                            timeframe = '24h trends'
-                            if 'longest' in item_text.lower():
-                                match_time = re.search(r'for (d+) hrs?', item_text)
-                                if match_time:
-                                    timeframe = f"{match_time.group(1)}h trending"
-                            
-                            trends.append({
-                                'id': base_id + (sec_idx * 10) + i + 1,
-                                'title': title.strip(),
-                                'source': 'x_trends',
-                                'volume': volume,
-                                'timeframe': timeframe
-                            })
-                        except:
-                            continue
-                except:
-                    continue
-            
-            await browser.close()
-            print(f"✅ X Trends: {len(trends)} items")
-            return trends
-
-    except Exception as e:
-        print(f"⚠️ X Trends falló: {str(e)[:100]}")
-        return []  # ❌ NUNCA rompe el script
-
 async def main():
-    print("🚀 TRENDS SCRAPER INICIO")
+    print("🚀 GOOGLE TRENDS ESPAÑA INICIO")
     
-    # Google SIEMPRE funciona
+    # Solo Google - 100% estable
     print("🔄 Google Trends 24h...")
     google_24h = await scrape_trends('24')
     
     print("🔄 Google Trends 4h...")
     google_4h = await scrape_trends('4')
     
-    # X opcional
-    print("🔄 X Trends...")
-    xtrends = await scrape_xtrends()
+    # 🔌 X DESACTIVADO (trends24.in bloquea GitHub Actions)
+    xtrends = []
+    print("⚠️ X Trends desactivado (GitHub Actions bloqueado)")
     
-    # Combinar
     all_trends = google_24h + google_4h + xtrends
     
-    # Dedup por título preservando ID más bajo
+    # Dedup + ordenar por ID
     seen_titles = {}
     unique_trends = []
     for trend in all_trends:
@@ -156,7 +83,6 @@ async def main():
             seen_titles[title_key] = trend['id']
             unique_trends.append(trend)
     
-    # Ordenar por ID
     unique_trends.sort(key=lambda x: x['id'])
     
     result = {
@@ -164,7 +90,7 @@ async def main():
         'summary': {
             'google_24h': len(google_24h),
             'google_4h': len(google_4h),
-            'xtrends': len(xtrends),
+            'xtrends': 0,
             'unique_total': len(unique_trends)
         },
         'trends': unique_trends
@@ -172,12 +98,12 @@ async def main():
     
     print(json.dumps(result, indent=2, ensure_ascii=False))
     
-    with open('trends_google&x.json', 'w', encoding='utf-8') as f:
+    with open('trends_google_es.json', 'w', encoding='utf-8') as f:
         json.dump(result, f, indent=2, ensure_ascii=False)
     
     print(f"
-✅ FINAL: {len(unique_trends)} trends únicos → trends_google&x.json")
-    print("IDs: 1-99=Google | 100+=X")
+✅ FINAL: {len(unique_trends)} trends → trends_google_es.json")
+    print("IDs: 1-19=24h | 20-39=4h")
 
 if __name__ == "__main__":
     asyncio.run(main())

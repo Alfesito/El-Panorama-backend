@@ -2,8 +2,8 @@ name: 🌐 Trends Google + X Update
 
 on:
   schedule:
-    - cron: '*/30 * * * *'     # Cada 30min (tendencias cambian rápido)
-  workflow_dispatch:           # Botón manual
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
 
 jobs:
   scrape:
@@ -25,10 +25,11 @@ jobs:
     
     - name: 🌐 Scrape Trends → JSON
       run: |
-        chmod +x trends_scraper.py  # ← Shebang #!/usr/bin/env python3
         python trends_scraper.py
+      timeout-minutes: 10  # ← 10min timeout total
     
-    - name: Commit JSON
+    - name: Commit JSON (si existe)
+      if: always()
       uses: stefanzweifel/git-auto-commit-action@v5
       with:
         file_pattern: 'trends_google&x.json'

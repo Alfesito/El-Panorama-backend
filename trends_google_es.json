@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-01-03T18:53:01.491148",
+  "timestamp": "2026-01-03T19:16:34.967394",
   "summary": {
     "google_24h": 15,
     "google_4h": 15,
-    "unique_total": 5
+    "unique_total": 6
   },
   "trends": [
     {
@@ -11,10 +11,10 @@
       "title": "maduro",
       "source": "google_24h",
       "volume": "1 M+ búsquedas",
-      "timeframe": "hace 11 h (24h)"
+      "timeframe": "hace 12 h (24h)"
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "osasuna - athletic",
       "source": "google_24h",
       "volume": "100 mil+ búsquedas",
@@ -25,20 +25,27 @@
       "title": "el pais",
       "source": "google_24h",
       "volume": "50 mil+ búsquedas",
-      "timeframe": "hace 10 h (24h)"
+      "timeframe": "hace 11 h (24h)"
     },
     {
-      "id": 24,
-      "title": "uss iwo jima",
-      "source": "google_4h",
+      "id": 15,
+      "title": "castellón - s. d. huesca",
+      "source": "google_24h",
       "volume": "10 mil+ búsquedas",
-      "timeframe": "hace 3 h (4h)"
+      "timeframe": "hace 4 h (24h)"
     },
     {
-      "id": 34,
-      "title": "senegal vs sudan",
+      "id": 21,
+      "title": "posiciones de osasuna contra athletic club",
       "source": "google_4h",
-      "volume": "2 mil+ búsquedas",
+      "volume": "20 mil+ búsquedas",
+      "timeframe": "hace 50 min (4h)"
+    },
+    {
+      "id": 29,
+      "title": "iwo jima",
+      "source": "google_4h",
+      "volume": "5 mil+ búsquedas",
       "timeframe": "hace 2 h (4h)"
     }
   ]

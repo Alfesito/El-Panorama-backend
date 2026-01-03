@@ -1,0 +1,262 @@
+{
+  "timestamp": "2026-01-03T20:58:54.808060",
+  "summary": {
+    "google_total": 30,
+    "xtrends_total": 11,
+    "unique_total": 36
+  },
+  "trends": [
+    {
+      "id": 1,
+      "title": "maduro",
+      "source": "google",
+      "volume": "1 M+ búsquedas",
+      "timeframe": "hace 13 h (24h)"
+    },
+    {
+      "id": 2,
+      "title": "rcd espanyol - barcelona",
+      "source": "google",
+      "volume": "200 mil+ búsquedas",
+      "timeframe": "hace 1 h (24h)"
+    },
+    {
+      "id": 3,
+      "title": "trump",
+      "source": "google",
+      "volume": "200 mil+ búsquedas",
+      "timeframe": "hace 13 h (24h)"
+    },
+    {
+      "id": 4,
+      "title": "celta de vigo - valencia c. f.",
+      "source": "google",
+      "volume": "100 mil+ búsquedas",
+      "timeframe": "hace 8 h (24h)"
+    },
+    {
+      "id": 5,
+      "title": "osasuna - athletic",
+      "source": "google",
+      "volume": "100 mil+ búsquedas",
+      "timeframe": "hace 6 h (24h)"
+    },
+    {
+      "id": 6,
+      "title": "tiempo mañana",
+      "source": "google",
+      "volume": "100 mil+ búsquedas",
+      "timeframe": "hace 50 min (24h)"
+    },
+    {
+      "id": 7,
+      "title": "elche c. f. - villarreal",
+      "source": "google",
+      "volume": "50 mil+ búsquedas",
+      "timeframe": "hace 4 h (24h)"
+    },
+    {
+      "id": 8,
+      "title": "el pais",
+      "source": "google",
+      "volume": "50 mil+ búsquedas",
+      "timeframe": "hace 12 h (24h)"
+    },
+    {
+      "id": 9,
+      "title": "valladolid - racing de santander",
+      "source": "google",
+      "volume": "20 mil+ búsquedas",
+      "timeframe": "hace 4 h (24h)"
+    },
+    {
+      "id": 10,
+      "title": "zapatero",
+      "source": "google",
+      "volume": "20 mil+ búsquedas",
+      "timeframe": "hace 12 h (24h)"
+    },
+    {
+      "id": 11,
+      "title": "bournemouth - arsenal",
+      "source": "google",
+      "volume": "20 mil+ búsquedas",
+      "timeframe": "hace 4 h (24h)"
+    },
+    {
+      "id": 12,
+      "title": "maria corina machado",
+      "source": "google",
+      "volume": "20 mil+ búsquedas",
+      "timeframe": "hace 10 h (24h)"
+    },
+    {
+      "id": 13,
+      "title": "almería - granada",
+      "source": "google",
+      "volume": "20 mil+ búsquedas",
+      "timeframe": "hace 6 h (24h)"
+    },
+    {
+      "id": 14,
+      "title": "jose antonio reyes",
+      "source": "google",
+      "volume": "20 mil+ búsquedas",
+      "timeframe": "hace 23 h (24h)"
+    },
+    {
+      "id": 15,
+      "title": "marco rubio",
+      "source": "google",
+      "volume": "10 mil+ búsquedas",
+      "timeframe": "hace 10 h (24h)"
+    },
+    {
+      "id": 22,
+      "title": "movistar plus",
+      "source": "google",
+      "volume": "10 mil+ búsquedas",
+      "timeframe": "hace 1 h (4h)"
+    },
+    {
+      "id": 23,
+      "title": "elche cf",
+      "source": "google",
+      "volume": "10 mil+ búsquedas",
+      "timeframe": "hace 3 h (4h)"
+    },
+    {
+      "id": 24,
+      "title": "córdoba - burgos",
+      "source": "google",
+      "volume": "5 mil+ búsquedas",
+      "timeframe": "hace 1 h (4h)"
+    },
+    {
+      "id": 25,
+      "title": "benfica - estoril",
+      "source": "google",
+      "volume": "5 mil+ búsquedas",
+      "timeframe": "hace 3 h (4h)"
+    },
+    {
+      "id": 26,
+      "title": "real valladolid",
+      "source": "google",
+      "volume": "5 mil+ búsquedas",
+      "timeframe": "hace 2 h (4h)"
+    },
+    {
+      "id": 27,
+      "title": "atalanta - roma",
+      "source": "google",
+      "volume": "2 mil+ búsquedas",
+      "timeframe": "hace 1 h (4h)"
+    },
+    {
+      "id": 28,
+      "title": "breogán - unicaja",
+      "source": "google",
+      "volume": "2 mil+ búsquedas",
+      "timeframe": "hace 1 h (4h)"
+    },
+    {
+      "id": 29,
+      "title": "espanyol – barcelone",
+      "source": "google",
+      "volume": "2 mil+ búsquedas",
+      "timeframe": "hace 1 h (4h)"
+    },
+    {
+      "id": 30,
+      "title": "tarjeta roja",
+      "source": "google",
+      "volume": "2 mil+ búsquedas",
+      "timeframe": "hace 40 min (4h)"
+    },
+    {
+      "id": 31,
+      "title": "gran canaria - murcia",
+      "source": "google",
+      "volume": "2 mil+ búsquedas",
+      "timeframe": "hace 2 h (4h)"
+    },
+    {
+      "id": 32,
+      "title": "vicepresidente de venezuela",
+      "source": "google",
+      "volume": "2 mil+ búsquedas",
+      "timeframe": "hace 3 h (4h)"
+    },
+    {
+      "id": 33,
+      "title": "pere milla",
+      "source": "google",
+      "volume": "1 mil+ búsquedas",
+      "timeframe": "hace 1 h (4h)"
+    },
+    {
+      "id": 34,
+      "title": "pedri",
+      "source": "google",
+      "volume": "1 mil+ búsquedas",
+      "timeframe": "hace 1 h (4h)"
+    },
+    {
+      "id": 101,
+      "title": "Irán",
+      "source": "x_trends",
+      "volume": "N/A",
+      "timeframe": "24h trends"
+    },
+    {
+      "id": 102,
+      "title": "Cuba",
+      "source": "x_trends",
+      "volume": "N/A",
+      "timeframe": "24h trends"
+    },
+    {
+      "id": 103,
+      "title": "Nicolás Maduro",
+      "source": "x_trends",
+      "volume": "N/A",
+      "timeframe": "24h trends"
+    },
+    {
+      "id": 104,
+      "title": "Venezolanos",
+      "source": "x_trends",
+      "volume": "N/A",
+      "timeframe": "24h trends"
+    },
+    {
+      "id": 105,
+      "title": "Irak",
+      "source": "x_trends",
+      "volume": "N/A",
+      "timeframe": "24h trends"
+    },
+    {
+      "id": 112,
+      "title": "Venezuela",
+      "source": "x_trends",
+      "volume": "33MM tweets",
+      "timeframe": "24h trends"
+    },
+    {
+      "id": 114,
+      "title": "Grok",
+      "source": "x_trends",
+      "volume": "18MM tweets",
+      "timeframe": "24h trends"
+    },
+    {
+      "id": 121,
+      "title": "Pucela",
+      "source": "x_trends",
+      "volume": "N/A",
+      "timeframe": "24h trends"
+    }
+  ]
+}

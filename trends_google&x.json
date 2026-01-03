@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-01-03T21:40:40.334542",
+  "timestamp": "2026-01-03T22:20:38.064163",
   "summary": {
     "google_total": 30,
     "xtrends_total": 15,
-    "unique_total": 41
+    "unique_total": 40
   },
   "trends": [
     {
@@ -11,35 +11,35 @@
       "title": "maduro",
       "source": "google",
       "volume": "1 M+ búsquedas",
-      "timeframe": "hace 14 h (24h)"
+      "timeframe": "hace 15 h (24h)"
     },
     {
       "id": 2,
       "title": "rcd espanyol - barcelona",
       "source": "google",
       "volume": "200 mil+ búsquedas",
-      "timeframe": "hace 2 h (24h)"
+      "timeframe": "hace 3 h (24h)"
     },
     {
       "id": 3,
       "title": "trump",
       "source": "google",
       "volume": "200 mil+ búsquedas",
-      "timeframe": "hace 14 h (24h)"
+      "timeframe": "hace 15 h (24h)"
     },
     {
       "id": 4,
       "title": "celta de vigo - valencia c. f.",
       "source": "google",
       "volume": "100 mil+ búsquedas",
-      "timeframe": "hace 9 h (24h)"
+      "timeframe": "hace 10 h (24h)"
     },
     {
       "id": 5,
       "title": "osasuna - athletic",
       "source": "google",
       "volume": "100 mil+ búsquedas",
-      "timeframe": "hace 7 h (24h)"
+      "timeframe": "hace 8 h (24h)"
     },
     {
       "id": 6,
@@ -53,21 +53,21 @@
       "title": "el pais",
       "source": "google",
       "volume": "50 mil+ búsquedas",
-      "timeframe": "hace 13 h (24h)"
+      "timeframe": "hace 14 h (24h)"
     },
     {
       "id": 8,
       "title": "el mundo",
       "source": "google",
       "volume": "50 mil+ búsquedas",
-      "timeframe": "hace 13 h (24h)"
+      "timeframe": "hace 14 h (24h)"
     },
     {
       "id": 9,
       "title": "zapatero",
       "source": "google",
       "volume": "20 mil+ búsquedas",
-      "timeframe": "hace 12 h (24h)"
+      "timeframe": "hace 13 h (24h)"
     },
     {
       "id": 10,
@@ -88,7 +88,7 @@
       "title": "maria corina machado",
       "source": "google",
       "volume": "20 mil+ búsquedas",
-      "timeframe": "hace 11 h (24h)"
+      "timeframe": "hace 12 h (24h)"
     },
     {
       "id": 13,
@@ -102,105 +102,105 @@
       "title": "córdoba - burgos",
       "source": "google",
       "volume": "10 mil+ búsquedas",
-      "timeframe": "hace 2 h (24h)"
+      "timeframe": "hace 3 h (24h)"
     },
     {
       "id": 15,
-      "title": "marco rubio",
+      "title": "cultural leonesa - real sociedad b",
       "source": "google",
       "volume": "10 mil+ búsquedas",
-      "timeframe": "hace 11 h (24h)"
+      "timeframe": "hace 10 h (24h)"
     },
     {
       "id": 22,
       "title": "movistar plus",
       "source": "google",
       "volume": "10 mil+ búsquedas",
-      "timeframe": "hace 1 h (4h)"
+      "timeframe": "hace 2 h (4h)"
     },
     {
       "id": 23,
-      "title": "real valladolid",
+      "title": "sport",
       "source": "google",
       "volume": "5 mil+ búsquedas",
-      "timeframe": "hace 3 h (4h)"
+      "timeframe": "hace 10 min (4h)"
     },
     {
       "id": 24,
-      "title": "elche",
+      "title": "atalanta - roma",
       "source": "google",
-      "volume": "5 mil+ búsquedas",
+      "volume": "2 mil+ búsquedas",
       "timeframe": "hace 3 h (4h)"
     },
     {
       "id": 25,
-      "title": "atalanta - roma",
-      "source": "google",
-      "volume": "2 mil+ búsquedas",
-      "timeframe": "hace 2 h (4h)"
-    },
-    {
-      "id": 26,
       "title": "breogán - unicaja",
       "source": "google",
       "volume": "2 mil+ búsquedas",
       "timeframe": "hace 2 h (4h)"
     },
     {
+      "id": 26,
+      "title": "dani olmo",
+      "source": "google",
+      "volume": "2 mil+ búsquedas",
+      "timeframe": "hace 40 min (4h)"
+    },
+    {
       "id": 27,
-      "title": "pere milla",
+      "title": "donald trump nicolás maduro",
       "source": "google",
       "volume": "2 mil+ búsquedas",
       "timeframe": "hace 1 h (4h)"
     },
     {
       "id": 28,
-      "title": "gran canaria - murcia",
+      "title": "espanyol – barcelone",
       "source": "google",
       "volume": "2 mil+ búsquedas",
       "timeframe": "hace 3 h (4h)"
     },
     {
       "id": 29,
-      "title": "espanyol – barcelone",
-      "source": "google",
-      "volume": "2 mil+ búsquedas",
-      "timeframe": "hace 2 h (4h)"
-    },
-    {
-      "id": 30,
       "title": "barsa",
-      "source": "google",
-      "volume": "2 mil+ búsquedas",
-      "timeframe": "hace 20 min (4h)"
-    },
-    {
-      "id": 31,
-      "title": "pedri",
       "source": "google",
       "volume": "2 mil+ búsquedas",
       "timeframe": "hace 1 h (4h)"
     },
     {
+      "id": 30,
+      "title": "dmitrovic",
+      "source": "google",
+      "volume": "2 mil+ búsquedas",
+      "timeframe": "hace 1 h (4h)"
+    },
+    {
+      "id": 31,
+      "title": "pere milla",
+      "source": "google",
+      "volume": "2 mil+ búsquedas",
+      "timeframe": "hace 2 h (4h)"
+    },
+    {
       "id": 32,
-      "title": "mali – tunisie",
+      "title": "gran canaria - murcia",
       "source": "google",
       "volume": "2 mil+ búsquedas",
       "timeframe": "hace 3 h (4h)"
     },
     {
       "id": 33,
-      "title": "racing",
-      "source": "google",
-      "volume": "2 mil+ búsquedas",
-      "timeframe": "hace 3 h (4h)"
-    },
-    {
-      "id": 34,
-      "title": "movistar",
+      "title": "survivor",
       "source": "google",
       "volume": "2 mil+ búsquedas",
       "timeframe": "hace 1 h (4h)"
+    },
+    {
+      "id": 34,
+      "title": "supercopa de españa",
+      "source": "google",
+      "volume": "2 mil+ búsquedas",
+      "timeframe": "hace 20 min (4h)"
     },
     {
       "id": 101,
@@ -225,14 +225,14 @@
     },
     {
       "id": 104,
-      "title": "Groenlandia",
+      "title": "Delcy",
       "source": "x_trends",
       "volume": "N/A",
       "timeframe": "24h trends"
     },
     {
       "id": 105,
-      "title": "Venezolanos",
+      "title": "Groenlandia",
       "source": "x_trends",
       "volume": "N/A",
       "timeframe": "24h trends"
@@ -255,40 +255,33 @@
       "id": 115,
       "title": "Grok",
       "source": "x_trends",
-      "volume": "15MM tweets",
+      "volume": "14MM tweets",
       "timeframe": "24h trends"
     },
     {
       "id": 121,
-      "title": "Jong",
-      "source": "x_trends",
-      "volume": "N/A",
-      "timeframe": "24h trends"
-    },
-    {
-      "id": 122,
-      "title": "Ferran",
+      "title": "Fermín",
       "source": "x_trends",
       "volume": "N/A",
       "timeframe": "24h trends"
     },
     {
       "id": 123,
-      "title": "Gerard Martín",
+      "title": "Roberto",
       "source": "x_trends",
       "volume": "N/A",
       "timeframe": "24h trends"
     },
     {
       "id": 124,
-      "title": "Raya",
+      "title": "Pedri",
       "source": "x_trends",
       "volume": "N/A",
       "timeframe": "24h trends"
     },
     {
       "id": 125,
-      "title": "#LimGoHome",
+      "title": "Lewandowski",
       "source": "x_trends",
       "volume": "N/A",
       "timeframe": "24h trends"

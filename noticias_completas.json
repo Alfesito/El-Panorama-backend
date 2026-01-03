@@ -1,5 +1,218 @@
 [
   {
+    "id": "xyOqgX",
+    "newspaper": "lavozdegalicia.es",
+    "date": "2026-01-03T04:10:02.690Z",
+    "tags": [
+      "Turismo",
+      "Semana Santa",
+      "Camino Inglés",
+      "Santiago ciudad",
+      "Oporto"
+    ],
+    "title": "Aumenta el cierre invernal de hoteles en Santiago ante la baja ocupacion prevista",
+    "subtitle": "Con mas establecimientos cerrados que en el 2025, la actividad sera menor este mes",
+    "url": "https://www.lavozdegalicia.es/noticia/santiago/2026/01/03/crece-cierre-invernal-hoteles-ante-baja-ocupacion-prevista/0003_202601S3C1991.htm",
+    "author": "marga mosteiro",
+    "image": {
+      "url": "https://img.lavdg.com/sc/U9vFnZ0wZ_SfAzCUiDNuCI1I1sc=/75x75/perfiles/170/1622721614761_thumb.jpg",
+      "credits": "Margarita Mosteiro Miguel"
+    },
+    "body": "",
+    "hash": "8efb12f8402c8b165981daaa2fe95537",
+    "domain": "lavozdegalicia.es",
+    "scraped_at": "2026-01-03T04:10:09.357696"
+  },
+  {
+    "id": "fyha1J",
+    "newspaper": "lavozdegalicia.es",
+    "date": "2026-01-03T04:10:02.096Z",
+    "tags": [
+      "DGT",
+      "Accidentes de Tráfico"
+    ],
+    "title": "Trafico recibe mas del doble de alertas con las balizas V-16 desde que son obligatorias",
+    "subtitle": "El 1 de enero, fecha de entrada en vigor del nuevo dispositivo, se transmitieron mas de 1.800 incidencias",
+    "url": "https://www.lavozdegalicia.es/noticia/galicia/2026/01/02/alertas-trafico-balizas-v-16-duplican-obligatorias/00031767375886266416142.htm",
+    "author": "Jose Manuel Pan",
+    "image": {
+      "url": "https://img.lavdg.com/sc/rDkO4xjMA2sAtsuFy1I_uJRGbRc=/75x75/perfiles/71/1684080359168_thumb.jpg",
+      "credits": "José Manuel Pan"
+    },
+    "body": "",
+    "hash": "a1ceffede2312a8f26154de18fb4616e",
+    "domain": "lavozdegalicia.es",
+    "scraped_at": "2026-01-03T04:10:09.357692"
+  },
+  {
+    "id": "313dLR",
+    "newspaper": "lavozdegalicia.es",
+    "date": "2026-01-03T04:10:01.647Z",
+    "tags": [
+      "Lotería de Navidad",
+      "Loterías"
+    ],
+    "title": "La crisis de Villamanin hace que clubes y comisiones duden si vender loteria",
+    "subtitle": "Algunas entidades se plantean dejar de vender participaciones de Navidad",
+    "url": "https://www.lavozdegalicia.es/noticia/sociedad/2026/01/03/crisis-villamanin-perder-fe-loteria-comisiones-clubes/0003_202601G3P25992.htm",
+    "author": "j. v. lado",
+    "image": {
+      "url": "https://img.lavdg.com/sc/avRL6zwO3I8Yb82bL0w9q_OAmeo=/75x75/perfiles/138/1422056890186_thumb.jpg",
+      "credits": "Juan Ventura Lado Alvela"
+    },
+    "body": "",
+    "hash": "0ba0e47eb910abf3ebba59c64fba1a3d",
+    "domain": "lavozdegalicia.es",
+    "scraped_at": "2026-01-03T04:10:09.357687"
+  },
+  {
+    "id": "IUMOyB",
+    "newspaper": "lavozdegalicia.es",
+    "date": "2026-01-03T04:10:01.123Z",
+    "tags": [
+      "Donald Trump",
+      "Nicolás Maduro",
+      "Venezuela"
+    ],
+    "title": "Maduro, de la resistencia a la supervivencia",
+    "subtitle": "",
+    "url": "https://www.lavozdegalicia.es/noticia/internacional/2026/01/03/maduro-resistencia-supervivencia/0003_202601G3P17991.htm",
+    "author": "Miguel-Anxo Murado",
+    "image": {
+      "url": "https://img.lavdg.com/sc/XzczWOuOElvroLPwLQy-m6UN6iQ=/75x75/perfiles/249/1577556912365_thumb.jpg",
+      "credits": "Miguel-Anxo Murado"
+    },
+    "body": "",
+    "hash": "f6aa0b125fb1163c7d4e5869a4c95377",
+    "domain": "lavozdegalicia.es",
+    "scraped_at": "2026-01-03T04:10:09.357683"
+  },
+  {
+    "id": "FwEQCu",
+    "newspaper": "lavozdegalicia.es",
+    "date": "2026-01-03T04:09:59.211Z",
+    "tags": [
+      "Cruz Roja",
+      "Vigo ciudad",
+      "Vilagarcía de Arousa",
+      "Protección Civil",
+      "Sergas"
+    ],
+    "title": "El invierno agrava la situacion de los sintecho",
+    "subtitle": "Aumentan los casos de las personas de entre 30 y 40 anos que carecen de un hogar",
+    "url": "https://www.lavozdegalicia.es/noticia/galicia/2026/01/03/invierno-agrava-situacion-sintecho/0003_202601G3P4991.htm",
+    "author": "La Voz",
+    "image": {
+      "url": "https://img.lavdg.com/sc/VevgpT3epHLZ2CxpJ7DuXIbqH-A=/1280x/2026/01/02/00121767370801780321262/Foto/o_20251218_135754000.jpg",
+      "credits": "En la alameda ourensana, donde está el templete de la música, varias personas que carecen de vivienda pasan ahí sus noches. En la imagen pueden verse los cartones, los colchones y las mantas de los sintecho."
+    },
+    "body": "",
+    "hash": "dae6a850e83e1c5603d9b468f0504bc3",
+    "domain": "lavozdegalicia.es",
+    "scraped_at": "2026-01-03T04:10:09.357670"
+  },
+  {
+    "id": "inyj0z",
+    "newspaper": "lavozdegalicia.es",
+    "date": "2026-01-03T04:09:58.795Z",
+    "tags": [
+      "Vigo ciudad",
+      "Ryanair",
+      "Londres",
+      "Aeropuerto de Peinador",
+      "Aeropuertos",
+      "Reino Unido",
+      "San Sebastián",
+      "Infraestructuras"
+    ],
+    "title": "Ryanair deja a Vigo sin vuelos internacionales",
+    "subtitle": "La compania de bajo coste abandona manana el aeropuerto de Peinador cerrando su ruta a Londres y tras mover en la pista olivica casi un millon de pasajeros en cinco mil operaciones",
+    "url": "https://www.lavozdegalicia.es/noticia/vigo/vigo/2026/01/03/ryanair-deja-vigo-vuelos-internacionales/0003_202601V3C1993.htm",
+    "author": "Carlos Punzon",
+    "image": {
+      "url": "https://img.lavdg.com/sc/1rduQRDv9IuJkFLmy7YeM4TU5nA=/75x75/perfiles/322/1761581510730_thumb.jpg",
+      "credits": "Carlos Punzón"
+    },
+    "body": "",
+    "hash": "0015dcf39ab76b14e7be6825ae897070",
+    "domain": "lavozdegalicia.es",
+    "scraped_at": "2026-01-03T04:10:09.357666"
+  },
+  {
+    "id": "e1unTj",
+    "newspaper": "lavozdegalicia.es",
+    "date": "2026-01-03T04:09:58.164Z",
+    "tags": [
+      "Pensiones",
+      "Seguridad Social"
+    ],
+    "title": "Asi le afectan los cambios en la jubilacion si quiere retirarse, si ya cobra pension o si todavia esta trabajando",
+    "subtitle": "En el 2026 la edad legal de retiro se demora dos meses, hasta 66 anos y 10 meses, y se amplia el periodo de calculo de la prestacion, que tendra en cuenta mas que los 25 ultimos anos cotizados",
+    "url": "https://www.lavozdegalicia.es/noticia/economia/2026/01/03/dos-meses-espera-retiro-cambios-formula-calcular-pension/0003_202601G3P21991.htm",
+    "author": "G. Lemos",
+    "image": {
+      "url": "https://img.lavdg.com/sc/sSPMhqH8sKHOuiaznj3-KpwrmS8=/1280x/2026/01/02/00121767371941770327113/Foto/X_20240904_180738000.jpg",
+      "credits": "Dos jubilados descansan en un banco en un parque de Viveiro"
+    },
+    "body": "",
+    "hash": "2f5c664d66789a14b16965d106945c11",
+    "domain": "lavozdegalicia.es",
+    "scraped_at": "2026-01-03T04:10:09.357661"
+  },
+  {
+    "id": "YoSfQr",
+    "newspaper": "lavozdegalicia.es",
+    "date": "2026-01-03T04:09:57.606Z",
+    "tags": [
+      "Augas de Galicia",
+      "Parlamento de Galicia",
+      "Xunta de Galicia",
+      "Consellería do Mar",
+      "A Coruña ciudad",
+      "Pontevedra ciudad",
+      "Ferrol ciudad",
+      "Vigo ciudad"
+    ],
+    "title": "El reto de las 4.000 viviendas de Rueda: 853 en construccion y 2.286 en proyecto",
+    "subtitle": "El presidente afirma que este ano se pondran en marcha las 861 pendientes",
+    "url": "https://www.lavozdegalicia.es/noticia/galicia/2026/01/03/reto-4000-viviendas-rueda-853-construccion-2286-proyecto/0003_202601G3P6991.htm",
+    "author": "Xose Gago",
+    "image": {
+      "url": "https://img.lavdg.com/sc/Mbd95ey58MBBTQ2C_L-AnCYrV4g=/75x75/perfiles/30/1623258642314_thumb.jpg",
+      "credits": "Xosé Vázquez Gago"
+    },
+    "body": "",
+    "hash": "7f2e16f7cc4869f0a4aca3c58c4e9d24",
+    "domain": "lavozdegalicia.es",
+    "scraped_at": "2026-01-03T04:10:09.357655"
+  },
+  {
+    "id": "p4twzA",
+    "newspaper": "lavozdegalicia.es",
+    "date": "2026-01-03T04:09:56.884Z",
+    "tags": [
+      "Autopistas",
+      "Peajes",
+      "AP-9",
+      "Tráfico",
+      "Audasa",
+      "Autovías",
+      "Pedro Sánchez"
+    ],
+    "title": "Cinco agravios castigan a los usuarios de las autopistas de Galicia",
+    "subtitle": "Casi 1.300 kilometros han pasado a ser gratuitos en ocho anos, ninguno gallego",
+    "url": "https://www.lavozdegalicia.es/noticia/galicia/2026/01/02/cinco-agravios-castigan-usuarios-autopistas-galicia/00031767378019687152711.htm",
+    "author": "Carlos Punzon",
+    "image": {
+      "url": "https://img.lavdg.com/sc/1rduQRDv9IuJkFLmy7YeM4TU5nA=/75x75/perfiles/322/1761581510730_thumb.jpg",
+      "credits": "Carlos Punzón"
+    },
+    "body": "",
+    "hash": "e8c3845562ce8912fcbc1039f7957de1",
+    "domain": "lavozdegalicia.es",
+    "scraped_at": "2026-01-03T04:10:09.357641"
+  },
+  {
     "id": "sVrkgc",
     "newspaper": "elespanol.com",
     "date": "2026-01-03T03:22:16.066Z",

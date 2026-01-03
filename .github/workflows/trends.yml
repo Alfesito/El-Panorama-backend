@@ -1,0 +1,36 @@
+name: 🌐 Trends Google + X Update
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'     # Cada 30min (tendencias cambian rápido)
+  workflow_dispatch:           # Botón manual
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+    
+    - name: Python 3.11
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+    
+    - name: Install Playwright + deps
+      run: |
+        pip install --upgrade pip
+        pip install playwright
+        playwright install --with-deps chromium
+    
+    - name: 🌐 Scrape Trends → JSON
+      run: |
+        chmod +x trends_scraper.py  # ← Shebang #!/usr/bin/env python3
+        python trends_scraper.py
+    
+    - name: Commit JSON
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        file_pattern: 'trends_google&x.json'
+        commit_message: "🌐 Trends Update $(date +%H:%M) [${{ github.run_number }}]"
+        skip_fetch: true

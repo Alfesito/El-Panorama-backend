@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-03T23:20:43.355057",
+  "timestamp": "2026-01-03T23:41:18.631422",
   "summary": {
     "google_total": 30,
     "xtrends_total": 15,
@@ -46,11 +46,11 @@
       "title": "elche c. f. - villarreal",
       "source": "google",
       "volume": "50 mil+ búsquedas",
-      "timeframe": "hace 6 h (24h)"
+      "timeframe": "hace 7 h (24h)"
     },
     {
       "id": 7,
-      "title": "el pais",
+      "title": "el mundo",
       "source": "google",
       "volume": "50 mil+ búsquedas",
       "timeframe": "hace 15 h (24h)"
@@ -64,52 +64,52 @@
     },
     {
       "id": 9,
-      "title": "bournemouth - arsenal",
+      "title": "marco rubio",
       "source": "google",
       "volume": "20 mil+ búsquedas",
-      "timeframe": "hace 6 h (24h)"
+      "timeframe": "hace 13 h (24h)"
     },
     {
       "id": 10,
-      "title": "valladolid - racing de santander",
+      "title": "bournemouth - arsenal",
       "source": "google",
       "volume": "20 mil+ búsquedas",
-      "timeframe": "hace 6 h (24h)"
+      "timeframe": "hace 7 h (24h)"
     },
     {
       "id": 11,
+      "title": "valladolid - racing de santander",
+      "source": "google",
+      "volume": "20 mil+ búsquedas",
+      "timeframe": "hace 7 h (24h)"
+    },
+    {
+      "id": 12,
       "title": "maria corina machado",
       "source": "google",
       "volume": "20 mil+ búsquedas",
       "timeframe": "hace 13 h (24h)"
     },
     {
-      "id": 12,
+      "id": 13,
       "title": "almería - granada",
       "source": "google",
       "volume": "20 mil+ búsquedas",
-      "timeframe": "hace 8 h (24h)"
+      "timeframe": "hace 9 h (24h)"
     },
     {
-      "id": 13,
+      "id": 14,
       "title": "cilia flores",
       "source": "google",
       "volume": "10 mil+ búsquedas",
       "timeframe": "hace 13 h (24h)"
     },
     {
-      "id": 14,
+      "id": 15,
       "title": "córdoba - burgos",
       "source": "google",
       "volume": "10 mil+ búsquedas",
       "timeframe": "hace 4 h (24h)"
-    },
-    {
-      "id": 15,
-      "title": "marco rubio",
-      "source": "google",
-      "volume": "10 mil+ búsquedas",
-      "timeframe": "hace 13 h (24h)"
     },
     {
       "id": 20,
@@ -127,7 +127,7 @@
     },
     {
       "id": 22,
-      "title": "sport",
+      "title": "delcy rodríguez trump",
       "source": "google",
       "volume": "5 mil+ búsquedas",
       "timeframe": "hace 1 h (4h)"
@@ -141,24 +141,24 @@
     },
     {
       "id": 24,
-      "title": "delcy rodríguez trump",
+      "title": "sport",
       "source": "google",
-      "volume": "2 mil+ búsquedas",
+      "volume": "5 mil+ búsquedas",
       "timeframe": "hace 1 h (4h)"
     },
     {
       "id": 25,
+      "title": "barsa",
+      "source": "google",
+      "volume": "5 mil+ búsquedas",
+      "timeframe": "hace 2 h (4h)"
+    },
+    {
+      "id": 26,
       "title": "bobby brown",
       "source": "google",
       "volume": "2 mil+ búsquedas",
       "timeframe": "hace 1 h (4h)"
-    },
-    {
-      "id": 26,
-      "title": "breogán - unicaja",
-      "source": "google",
-      "volume": "2 mil+ búsquedas",
-      "timeframe": "hace 3 h (4h)"
     },
     {
       "id": 27,
@@ -172,25 +172,25 @@
       "title": "maduro bajando del avion",
       "source": "google",
       "volume": "2 mil+ búsquedas",
-      "timeframe": "hace 50 min (4h)"
+      "timeframe": "hace 1 h (4h)"
     },
     {
       "id": 29,
       "title": "dmitrovic",
       "source": "google",
       "volume": "2 mil+ búsquedas",
-      "timeframe": "hace 2 h (4h)"
+      "timeframe": "hace 3 h (4h)"
     },
     {
       "id": 30,
-      "title": "survivor",
+      "title": "manolo gonzález",
       "source": "google",
       "volume": "2 mil+ búsquedas",
-      "timeframe": "hace 2 h (4h)"
+      "timeframe": "hace 3 h (4h)"
     },
     {
       "id": 31,
-      "title": "manolo gonzález",
+      "title": "survivor",
       "source": "google",
       "volume": "2 mil+ búsquedas",
       "timeframe": "hace 2 h (4h)"
@@ -207,14 +207,14 @@
       "title": "lewandowski",
       "source": "google",
       "volume": "2 mil+ búsquedas",
-      "timeframe": "hace 1 h (4h)"
+      "timeframe": "hace 2 h (4h)"
     },
     {
       "id": 34,
-      "title": "mali",
+      "title": "tarjeta roja",
       "source": "google",
       "volume": "2 mil+ búsquedas",
-      "timeframe": "hace 1 h (4h)"
+      "timeframe": "hace 3 h (4h)"
     },
     {
       "id": 101,

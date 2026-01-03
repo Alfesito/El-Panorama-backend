@@ -22,10 +22,10 @@ async def scrape_trends(hours):
         page = await context.new_page()
         
         url = f"https://trends.google.com/trending?geo=ES&hl=es&sort=search-volume&hours={hours}"
-        await page.goto(url, wait_until='networkidle')
+        await page.goto(url, wait_until='networkidle', timeout=45000)
         
         await page.wait_for_selector('table.enOdEe-wZVHld-zg7Cn', timeout=30000)
-        await page.wait_for_selector('tr[data-row-id]', timeout=10000)
+        await page.wait_for_selector('tr[data-row-id]', timeout=20000)
         
         rows = await page.query_selector_all('tr[data-row-id]')
         trends = []
@@ -47,7 +47,7 @@ async def scrape_trends(hours):
                 time = await time_elem.inner_text() if time_elem else ''
                 
                 trend = {
-                    'id': base_id + i,  # ID secuencial por fuente/periodo
+                    'id': base_id + i,
                     'title': title.strip(),
                     'source': 'google',
                     'volume': volume.strip(),
@@ -63,23 +63,53 @@ async def scrape_trends(hours):
 
 
 async def scrape_xtrends():
-    """Scrapea X Trends"""
+    """Scrapea X Trends desde múltiples fuentes (fallback)"""
+    sources = [
+        ("https://trends24.in/spain/", 'h2', 'section.stat-card', scrape_trends24),
+        ("https://getdaytrends.com/spain/", '[data-testid="trend"]', None, scrape_getdaytrends),
+    ]
+    
+    xtrends = []
+    base_id = 100
+    
+    for idx, (url, selector1, selector2, scraper) in enumerate(sources):
+        try:
+            print(f"🔄 Probando X Trends fuente {idx+1}: {url}")
+            trends = await scraper(url, selector1, selector2, base_id + (idx * 50))
+            if trends:
+                print(f"✅ X Trends fuente {idx+1}: {len(trends)} trends")
+                xtrends.extend(trends[:20])  # Máximo 20 por fuente
+                break  # Usar primera fuente que funcione
+        except Exception as e:
+            print(f"❌ X Trends fuente {idx+1} falló: {str(e)[:100]}")
+            continue
+    
+    if not xtrends:
+        print("⚠️ Todas las fuentes X Trends fallaron - usando fallback")
+        # Fallback: trends vacíos pero con estructura correcta
+        xtrends = []
+    
+    print(f"X Trends total: {len(xtrends)}")
+    return xtrends
+
+
+async def scrape_trends24(url, selector1, selector2, base_id):
+    """Scraping específico para trends24.in"""
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=True)
         context = await browser.new_context(
-            user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+            user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+            viewport={'width': 1280, 'height': 720}
         )
         page = await context.new_page()
         
-        url = "https://trends24.in/spain/"
-        await page.goto(url, wait_until='networkidle')
-        await page.wait_for_selector('h2', timeout=30000)
+        await page.goto(url, wait_until='domcontentloaded', timeout=45000)
+        await page.wait_for_selector(selector1, timeout=30000)
         
         trends = []
-        sections = await page.query_selector_all('section.stat-card')
-        base_id = 100  # IDs 100+ para X Trends
+        sections = await page.query_selector_all(selector2)
         
-        for sec_idx, section in enumerate(sections):
+        for sec_idx, section in enumerate(sections[:3]):  # Máximo 3 secciones
             try:
                 list_elem = await section.query_selector('ol.stat-card-list')
                 if not list_elem:
@@ -118,6 +148,48 @@ async def scrape_xtrends():
                         trends.append(trend)
                     except:
                         continue
+            except:
+                continue
+        
+        await browser.close()
+        return trends
+
+
+async def scrape_getdaytrends(url, selector1, selector2, base_id):
+    """Scraping específico para getdaytrends.com"""
+    async with async_playwright() as p:
+        browser = await p.chromium.launch(headless=True)
+        context = await browser.new_context(
+            user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+            viewport={'width': 1280, 'height': 720}
+        )
+        page = await context.new_page()
+        
+        await page.goto(url, wait_until='domcontentloaded', timeout=45000)
+        await page.wait_for_selector(selector1, timeout=30000)
+        
+        trends = []
+        items = await page.query_selector_all(selector1)
+        
+        for i, item in enumerate(items[:25]):
+            try:
+                title_elem = await item.query_selector('div[data-testid="trend-name"]')
+                title = await title_elem.inner_text() if title_elem else ''
+                
+                if not title.strip():
+                    continue
+                
+                volume_elem = await item.query_selector('[data-testid="tweets"]')
+                volume = await volume_elem.inner_text() if volume_elem else 'N/A'
+                
+                trend = {
+                    'id': base_id + i,
+                    'title': title.strip(),
+                    'source': 'x_trends',
+                    'volume': volume,
+                    'timeframe': '24h trends'
+                }
+                trends.append(trend)
             except:
                 continue
         

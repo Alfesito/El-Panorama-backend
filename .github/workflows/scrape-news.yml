@@ -1,7 +1,7 @@
 name: 📰 Scrape Noticias Update
 on:
   schedule:
-    - cron: '*/15 * * * *'     # Cada 30min (día)
+    - cron: '*/60 * * * *'     # Cada 60min
   workflow_dispatch:        # Botón manual
 
 jobs:

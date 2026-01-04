@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-01-04T05:26:40.343896",
+  "timestamp": "2026-01-04T05:49:31.119437",
   "summary": {
-    "google_total": 22,
+    "google_total": 21,
     "xtrends_total": 10,
-    "unique_total": 31
+    "unique_total": 30
   },
   "trends": [
     {
@@ -46,7 +46,7 @@
       "title": "elche c. f. - villarreal",
       "source": "google",
       "volume": "50 mil+ búsquedas",
-      "timeframe": "hace 12 h (24h)"
+      "timeframe": "hace 13 h (24h)"
     },
     {
       "id": 7,
@@ -78,31 +78,31 @@
     },
     {
       "id": 11,
-      "title": "bournemouth - arsenal",
-      "source": "google",
-      "volume": "20 mil+ búsquedas",
-      "timeframe": "hace 12 h (24h)"
-    },
-    {
-      "id": 12,
       "title": "maria corina machado",
       "source": "google",
       "volume": "20 mil+ búsquedas",
       "timeframe": "hace 19 h (24h)"
     },
     {
+      "id": 12,
+      "title": "bournemouth - arsenal",
+      "source": "google",
+      "volume": "20 mil+ búsquedas",
+      "timeframe": "hace 13 h (24h)"
+    },
+    {
       "id": 13,
       "title": "valladolid - racing de santander",
       "source": "google",
       "volume": "20 mil+ búsquedas",
-      "timeframe": "hace 12 h (24h)"
+      "timeframe": "hace 13 h (24h)"
     },
     {
       "id": 14,
       "title": "almería - granada",
       "source": "google",
       "volume": "20 mil+ búsquedas",
-      "timeframe": "hace 14 h (24h)"
+      "timeframe": "hace 15 h (24h)"
     },
     {
       "id": 15,
@@ -113,52 +113,45 @@
     },
     {
       "id": 20,
-      "title": "warriors - jazz",
+      "title": "clippers - celtics",
       "source": "google",
       "volume": "200+ búsquedas",
       "timeframe": "hace 1 h (4h)"
     },
     {
       "id": 21,
-      "title": "mavericks - rockets",
+      "title": "warriors - jazz",
       "source": "google",
       "volume": "200+ búsquedas",
       "timeframe": "hace 2 h (4h)"
     },
     {
       "id": 22,
-      "title": "clippers - celtics",
+      "title": "mavericks - rockets",
       "source": "google",
-      "volume": "100+ búsquedas",
-      "timeframe": "hace 40 min (4h)"
+      "volume": "200+ búsquedas",
+      "timeframe": "hace 2 h (4h)"
     },
     {
       "id": 23,
+      "title": "la luna llena",
+      "source": "google",
+      "volume": "100+ búsquedas",
+      "timeframe": "hace 1 h (4h)"
+    },
+    {
+      "id": 24,
       "title": "pablo carreño",
       "source": "google",
       "volume": "100+ búsquedas",
       "timeframe": "hace 3 h (4h)"
     },
     {
-      "id": 24,
+      "id": 25,
       "title": "spurs - trail blazers",
       "source": "google",
       "volume": "100+ búsquedas",
       "timeframe": "hace 2 h (4h)"
-    },
-    {
-      "id": 25,
-      "title": "sentenced to be a hero",
-      "source": "google",
-      "volume": "100+ búsquedas",
-      "timeframe": "hace 3 h (4h)"
-    },
-    {
-      "id": 26,
-      "title": "roberto carlos futbolista",
-      "source": "google",
-      "volume": "100+ búsquedas",
-      "timeframe": "hace 3 h (4h)"
     },
     {
       "id": 101,

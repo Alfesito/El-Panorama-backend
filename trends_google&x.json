@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-01-04T04:50:25.759444",
+  "timestamp": "2026-01-04T05:26:40.343896",
   "summary": {
-    "google_total": 23,
+    "google_total": 22,
     "xtrends_total": 10,
-    "unique_total": 32
+    "unique_total": 31
   },
   "trends": [
     {
@@ -11,35 +11,35 @@
       "title": "maduro",
       "source": "google",
       "volume": "1 M+ búsquedas",
-      "timeframe": "hace 21 h (24h)"
+      "timeframe": "hace 22 h (24h)"
     },
     {
       "id": 2,
       "title": "rcd espanyol - barcelona",
       "source": "google",
       "volume": "500 mil+ búsquedas",
-      "timeframe": "hace 9 h (24h)"
+      "timeframe": "hace 10 h (24h)"
     },
     {
       "id": 3,
       "title": "trump",
       "source": "google",
-      "volume": "100 mil+ búsquedas",
-      "timeframe": "hace 21 h (24h)"
+      "volume": "200 mil+ búsquedas",
+      "timeframe": "hace 22 h (24h)"
     },
     {
       "id": 4,
       "title": "osasuna - athletic",
       "source": "google",
       "volume": "100 mil+ búsquedas",
-      "timeframe": "hace 14 h (24h)"
+      "timeframe": "hace 15 h (24h)"
     },
     {
       "id": 5,
       "title": "celta de vigo - valencia c. f.",
       "source": "google",
       "volume": "100 mil+ búsquedas",
-      "timeframe": "hace 16 h (24h)"
+      "timeframe": "hace 17 h (24h)"
     },
     {
       "id": 6,
@@ -53,14 +53,14 @@
       "title": "marco rubio",
       "source": "google",
       "volume": "50 mil+ búsquedas",
-      "timeframe": "hace 18 h (24h)"
+      "timeframe": "hace 19 h (24h)"
     },
     {
       "id": 8,
       "title": "el pais",
       "source": "google",
       "volume": "50 mil+ búsquedas",
-      "timeframe": "hace 20 h (24h)"
+      "timeframe": "hace 21 h (24h)"
     },
     {
       "id": 9,
@@ -74,7 +74,7 @@
       "title": "noticias",
       "source": "google",
       "volume": "20 mil+ búsquedas",
-      "timeframe": "hace 21 h (24h)"
+      "timeframe": "hace 22 h (24h)"
     },
     {
       "id": 11,
@@ -88,7 +88,7 @@
       "title": "maria corina machado",
       "source": "google",
       "volume": "20 mil+ búsquedas",
-      "timeframe": "hace 18 h (24h)"
+      "timeframe": "hace 19 h (24h)"
     },
     {
       "id": 13,
@@ -106,10 +106,10 @@
     },
     {
       "id": 15,
-      "title": "petro",
+      "title": "córdoba - burgos",
       "source": "google",
       "volume": "10 mil+ búsquedas",
-      "timeframe": "hace 18 h (24h)"
+      "timeframe": "hace 10 h (24h)"
     },
     {
       "id": 20,
@@ -120,48 +120,41 @@
     },
     {
       "id": 21,
-      "title": "knicks - 76ers",
+      "title": "mavericks - rockets",
       "source": "google",
       "volume": "200+ búsquedas",
-      "timeframe": "hace 3 h (4h)"
+      "timeframe": "hace 2 h (4h)"
     },
     {
       "id": 22,
       "title": "clippers - celtics",
       "source": "google",
       "volume": "100+ búsquedas",
-      "timeframe": "hace 10 min (4h)"
+      "timeframe": "hace 40 min (4h)"
     },
     {
       "id": 23,
-      "title": "mavericks - rockets",
+      "title": "pablo carreño",
       "source": "google",
       "volume": "100+ búsquedas",
-      "timeframe": "hace 1 h (4h)"
+      "timeframe": "hace 3 h (4h)"
     },
     {
       "id": 24,
-      "title": "pablo carreño",
+      "title": "spurs - trail blazers",
       "source": "google",
       "volume": "100+ búsquedas",
       "timeframe": "hace 2 h (4h)"
     },
     {
       "id": 25,
-      "title": "spurs - trail blazers",
-      "source": "google",
-      "volume": "100+ búsquedas",
-      "timeframe": "hace 1 h (4h)"
-    },
-    {
-      "id": 26,
       "title": "sentenced to be a hero",
       "source": "google",
       "volume": "100+ búsquedas",
       "timeframe": "hace 3 h (4h)"
     },
     {
-      "id": 27,
+      "id": 26,
       "title": "roberto carlos futbolista",
       "source": "google",
       "volume": "100+ búsquedas",
@@ -206,7 +199,7 @@
       "id": 112,
       "title": "Venezuela",
       "source": "x_trends",
-      "volume": "42MM tweets",
+      "volume": "44MM tweets",
       "timeframe": "24h trends"
     },
     {
@@ -220,14 +213,14 @@
       "id": 114,
       "title": "Nicolás Maduro",
       "source": "x_trends",
-      "volume": "22MM tweets",
+      "volume": "23MM tweets",
       "timeframe": "24h trends"
     },
     {
       "id": 115,
       "title": "Caracas",
       "source": "x_trends",
-      "volume": "17MM tweets",
+      "volume": "19MM tweets",
       "timeframe": "24h trends"
     }
   ]

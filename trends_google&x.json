@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-01-03T23:41:18.631422",
+  "timestamp": "2026-01-04T01:56:49.062709",
   "summary": {
     "google_total": 30,
-    "xtrends_total": 15,
-    "unique_total": 42
+    "xtrends_total": 13,
+    "unique_total": 41
   },
   "trends": [
     {
@@ -11,235 +11,235 @@
       "title": "maduro",
       "source": "google",
       "volume": "1 M+ búsquedas",
-      "timeframe": "hace 16 h (24h)"
+      "timeframe": "hace 18 h (24h)"
     },
     {
       "id": 2,
       "title": "rcd espanyol - barcelona",
       "source": "google",
       "volume": "500 mil+ búsquedas",
-      "timeframe": "hace 4 h (24h)"
+      "timeframe": "hace 6 h (24h)"
     },
     {
       "id": 3,
       "title": "trump",
       "source": "google",
       "volume": "200 mil+ búsquedas",
-      "timeframe": "hace 16 h (24h)"
+      "timeframe": "hace 18 h (24h)"
     },
     {
       "id": 4,
       "title": "celta de vigo - valencia c. f.",
       "source": "google",
       "volume": "100 mil+ búsquedas",
-      "timeframe": "hace 11 h (24h)"
+      "timeframe": "hace 13 h (24h)"
     },
     {
       "id": 5,
       "title": "osasuna - athletic",
       "source": "google",
       "volume": "100 mil+ búsquedas",
-      "timeframe": "hace 9 h (24h)"
+      "timeframe": "hace 11 h (24h)"
     },
     {
       "id": 6,
       "title": "elche c. f. - villarreal",
       "source": "google",
       "volume": "50 mil+ búsquedas",
-      "timeframe": "hace 7 h (24h)"
+      "timeframe": "hace 9 h (24h)"
     },
     {
       "id": 7,
       "title": "el mundo",
       "source": "google",
       "volume": "50 mil+ búsquedas",
-      "timeframe": "hace 15 h (24h)"
+      "timeframe": "hace 17 h (24h)"
     },
     {
       "id": 8,
       "title": "zapatero",
       "source": "google",
       "volume": "20 mil+ búsquedas",
-      "timeframe": "hace 14 h (24h)"
+      "timeframe": "hace 17 h (24h)"
     },
     {
       "id": 9,
-      "title": "marco rubio",
+      "title": "cilia flores",
       "source": "google",
       "volume": "20 mil+ búsquedas",
-      "timeframe": "hace 13 h (24h)"
+      "timeframe": "hace 16 h (24h)"
     },
     {
       "id": 10,
-      "title": "bournemouth - arsenal",
+      "title": "marco rubio",
       "source": "google",
       "volume": "20 mil+ búsquedas",
-      "timeframe": "hace 7 h (24h)"
+      "timeframe": "hace 15 h (24h)"
     },
     {
       "id": 11,
-      "title": "valladolid - racing de santander",
+      "title": "bournemouth - arsenal",
       "source": "google",
       "volume": "20 mil+ búsquedas",
-      "timeframe": "hace 7 h (24h)"
+      "timeframe": "hace 9 h (24h)"
     },
     {
       "id": 12,
       "title": "maria corina machado",
       "source": "google",
       "volume": "20 mil+ búsquedas",
-      "timeframe": "hace 13 h (24h)"
+      "timeframe": "hace 15 h (24h)"
     },
     {
       "id": 13,
-      "title": "almería - granada",
+      "title": "valladolid - racing de santander",
       "source": "google",
       "volume": "20 mil+ búsquedas",
       "timeframe": "hace 9 h (24h)"
     },
     {
       "id": 14,
-      "title": "cilia flores",
+      "title": "almería - granada",
       "source": "google",
-      "volume": "10 mil+ búsquedas",
-      "timeframe": "hace 13 h (24h)"
+      "volume": "20 mil+ búsquedas",
+      "timeframe": "hace 11 h (24h)"
     },
     {
       "id": 15,
       "title": "córdoba - burgos",
       "source": "google",
       "volume": "10 mil+ búsquedas",
-      "timeframe": "hace 4 h (24h)"
+      "timeframe": "hace 6 h (24h)"
     },
     {
       "id": 20,
-      "title": "rcd espanyol contra barcelona",
+      "title": "posiciones de rcd espanyol de barcelona contra fc barcelona",
       "source": "google",
-      "volume": "100 mil+ búsquedas",
+      "volume": "5 mil+ búsquedas",
       "timeframe": "hace 3 h (4h)"
     },
     {
       "id": 21,
-      "title": "movistar plus",
+      "title": "sport",
       "source": "google",
-      "volume": "10 mil+ búsquedas",
+      "volume": "5 mil+ búsquedas",
       "timeframe": "hace 3 h (4h)"
     },
     {
       "id": 22,
-      "title": "delcy rodríguez trump",
+      "title": "bobby brown",
       "source": "google",
-      "volume": "5 mil+ búsquedas",
-      "timeframe": "hace 1 h (4h)"
+      "volume": "2 mil+ búsquedas",
+      "timeframe": "hace 3 h (4h)"
     },
     {
       "id": 23,
-      "title": "supercopa de españa",
+      "title": "nicolás maduro guerra",
       "source": "google",
-      "volume": "5 mil+ búsquedas",
+      "volume": "2 mil+ búsquedas",
       "timeframe": "hace 1 h (4h)"
     },
     {
       "id": 24,
-      "title": "sport",
+      "title": "supercopa de españa",
       "source": "google",
-      "volume": "5 mil+ búsquedas",
-      "timeframe": "hace 1 h (4h)"
+      "volume": "2 mil+ búsquedas",
+      "timeframe": "hace 3 h (4h)"
     },
     {
       "id": 25,
-      "title": "barsa",
+      "title": "mundo deportivo",
       "source": "google",
-      "volume": "5 mil+ búsquedas",
-      "timeframe": "hace 2 h (4h)"
+      "volume": "2 mil+ búsquedas",
+      "timeframe": "hace 3 h (4h)"
     },
     {
       "id": 26,
-      "title": "bobby brown",
+      "title": "guantanamo",
       "source": "google",
-      "volume": "2 mil+ búsquedas",
-      "timeframe": "hace 1 h (4h)"
+      "volume": "1 mil+ búsquedas",
+      "timeframe": "hace 3 h (4h)"
     },
     {
       "id": 27,
-      "title": "melatonina niños",
+      "title": "heat - timberwolves",
       "source": "google",
-      "volume": "2 mil+ búsquedas",
-      "timeframe": "hace 2 h (4h)"
+      "volume": "1 mil+ búsquedas",
+      "timeframe": "hace 3 h (4h)"
     },
     {
       "id": 28,
-      "title": "maduro bajando del avion",
+      "title": "supercopa de españa 2026",
       "source": "google",
-      "volume": "2 mil+ búsquedas",
-      "timeframe": "hace 1 h (4h)"
+      "volume": "1 mil+ búsquedas",
+      "timeframe": "hace 3 h (4h)"
     },
     {
       "id": 29,
-      "title": "dmitrovic",
+      "title": "moderate snow ice warning",
       "source": "google",
-      "volume": "2 mil+ búsquedas",
-      "timeframe": "hace 3 h (4h)"
+      "volume": "500+ búsquedas",
+      "timeframe": "hace 2 h (4h)"
     },
     {
       "id": 30,
-      "title": "manolo gonzález",
+      "title": "corea del norte",
       "source": "google",
-      "volume": "2 mil+ búsquedas",
-      "timeframe": "hace 3 h (4h)"
+      "volume": "500+ búsquedas",
+      "timeframe": "hace 2 h (4h)"
     },
     {
       "id": 31,
-      "title": "survivor",
+      "title": "el mexicano",
       "source": "google",
-      "volume": "2 mil+ búsquedas",
+      "volume": "500+ búsquedas",
       "timeframe": "hace 2 h (4h)"
     },
     {
       "id": 32,
-      "title": "pere milla",
+      "title": "chapo guzman",
       "source": "google",
-      "volume": "2 mil+ búsquedas",
+      "volume": "500+ búsquedas",
       "timeframe": "hace 3 h (4h)"
     },
     {
       "id": 33,
-      "title": "lewandowski",
+      "title": "sorteo primitiva hoy",
       "source": "google",
-      "volume": "2 mil+ búsquedas",
-      "timeframe": "hace 2 h (4h)"
+      "volume": "500+ búsquedas",
+      "timeframe": "hace 3 h (4h)"
     },
     {
       "id": 34,
-      "title": "tarjeta roja",
+      "title": "fbi",
       "source": "google",
-      "volume": "2 mil+ búsquedas",
+      "volume": "500+ búsquedas",
       "timeframe": "hace 3 h (4h)"
     },
     {
       "id": 101,
-      "title": "Irán",
-      "source": "x_trends",
-      "volume": "N/A",
-      "timeframe": "24h trends"
-    },
-    {
-      "id": 102,
       "title": "Delcy",
       "source": "x_trends",
       "volume": "N/A",
       "timeframe": "24h trends"
     },
     {
-      "id": 103,
+      "id": 102,
       "title": "Irak",
       "source": "x_trends",
       "volume": "N/A",
       "timeframe": "24h trends"
     },
     {
-      "id": 104,
+      "id": 103,
       "title": "Cuba",
+      "source": "x_trends",
+      "volume": "N/A",
+      "timeframe": "24h trends"
+    },
+    {
+      "id": 105,
+      "title": "Groenlandia",
       "source": "x_trends",
       "volume": "N/A",
       "timeframe": "24h trends"
@@ -252,6 +252,13 @@
       "timeframe": "24h trends"
     },
     {
+      "id": 113,
+      "title": "Irán",
+      "source": "x_trends",
+      "volume": "24MM tweets",
+      "timeframe": "24h trends"
+    },
+    {
       "id": 114,
       "title": "Nicolás Maduro",
       "source": "x_trends",
@@ -260,42 +267,28 @@
     },
     {
       "id": 115,
-      "title": "Grok",
+      "title": "Caracas",
       "source": "x_trends",
       "volume": "12MM tweets",
       "timeframe": "24h trends"
     },
     {
       "id": 121,
-      "title": "Courtois",
+      "title": "Olmo",
       "source": "x_trends",
       "volume": "N/A",
       "timeframe": "24h trends"
     },
     {
       "id": 122,
-      "title": "Barcelona",
+      "title": "Chavez",
       "source": "x_trends",
       "volume": "N/A",
       "timeframe": "24h trends"
     },
     {
       "id": 123,
-      "title": "#rcde",
-      "source": "x_trends",
-      "volume": "N/A",
-      "timeframe": "24h trends"
-    },
-    {
-      "id": 124,
-      "title": "Dimitrovic",
-      "source": "x_trends",
-      "volume": "N/A",
-      "timeframe": "24h trends"
-    },
-    {
-      "id": 125,
-      "title": "Eric",
+      "title": "Que Trump",
       "source": "x_trends",
       "volume": "N/A",
       "timeframe": "24h trends"
